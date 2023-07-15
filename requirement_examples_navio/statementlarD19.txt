@@ -1,0 +1,13 @@
+The interface between the HDD an d the system shall be a SCSI. 
+Each ARINC429 card shall be hardware configured for 32 bit address mode. 
+The base address for the default ARINC 429 card shall be 0x4800 0000. 
+The base address for the second ARINC 429 card shall be 0x4808 0000. 
+boot process shall be initiated. 
+Alert shall be generated if the lateral offset is outside its tolerance. 
+aircraft shall be monitored. 
+maintaining of the longitudinal separation shall be stopped. 
+conflict alert shall be generated. 
+Time, then the Conflict Resolution process shall be repeated. 
+closure rate shall be computed. 
+company routes shall not exceed 2MB. 
+level shall be provided for each grid point. 

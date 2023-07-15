@@ -1,0 +1,400 @@
+ Commercial users intending to provide launch services from one of the  ranges shall have a license or license application in process from the Department of  Transporta tions Federal Aviation Administration (FAA) or have a DoD sponsorship and be  accepted by the DoD to use the ER or WR.
+ Foreign government organizations or other foreign  entities shall be sponsored by an appropriate US government organization or be a custome r of a  Range User.
+ Range User proposed alternative solutions shall achieve an equivalent  level of safety and be approved by Range Safety.
+  All facilities and structures designed,  constructed, and modified for use on the ranges shall meet the standards and provisions established  in SSCMAN 91 -710 Volumes 3 and 5 and in other nationally recognized codes and standards,  including the National  Environmental Policy Act (NEPA) and applicable state and local  regulations.
+   During the planning phase for construction or  modification of facilities, the following requirements shall be taken into consideration:   2.
+  The safety impact of the new facility operations to existing and planned nearby  facilities, military installation and industrial complex areas, and off -base population centers as  well as the impact of existing and planned nearby facilities on the new fa cility operations shall  be addressed.
+   Facilities shall not be located inside an existing explosive safety clear zone unless the  facility is related to the existing explosive -sited facility.
+   Overflight hazards to the facility and facility co ntents shall be addressed during facility  siting and design, and critical facilities should not be located immediately downrange of  existing launch sites or in RLV/reentry vehicle return flight paths to nominal or contingency  landing sites.
+   Locatio n of facilities shall address the operational impact from hypergolic transfer and  storage operation in nearby facilities.
+   Location of facilities that may contain hypergolic commodities shall address toxic  hazard corridors (THC) (see SSCMAN 91 -710 V olume 6) and the potential impact on the  general public and nearby facilities.
+   Location of facilities shall take into account any radio frequency (RF) hazards and the  potential impact on the general public and nearby facilities.
+4  below, construction and demolition site safety  shall be the sole responsibility of the Range User or contractor when the construction contract  is issued by one of the following:   2.
+   Construction site activities on the r anges shall comply with Occupational Safety and  Health Administration (OSHA) General Industry and Construction Standards (29 Code of  Federal Regulations [CFR] §1910, Occupational Safety and Health Standards , and 29 CFR  §1926, Safety and Health Regulations for Construction ).
+ Range Safety shall assume no liability  for Range User or contractor compliance or noncompliance with OSHA requirements.
+ Range Safety shall assume no liability for Range User or contractor  compliance or noncompliance with this document or criteria.
+   Accidents and injuries shall be reported to th e Administrative Contracting Officer  and others as described in the Range User’s Operations Safety Plan (OSP) and System  Safety Program Plan (SSPP).
+   Serious mishaps shall be reported as soon as possible, IAW applicable  reporting instructions an d plans.
+   The Administrative Contracting Officer shall notify SLD 45/SEG or SLD  30/SEG, Occupational Safety, and the Pad Safety Officer (PSO) or Operations Safety  Technician (OST) of serious accidents and injuries.
+   The Range User shall evaluate all  facilities, facility systems, and structures to determine if they are critical.
+   Unless otherwise agreed to by Range Safety and the Range User or otherwise stated in  this volume, the facility design engineering documents described below shall be submitted to  Range Safety for review and approval at least 30 days prior to major design rev iews and  program milestones (e.
+   All facility design engineering drawing and specification packages shall  have a  space or block on the first drawing sheet reserved for the coordination/approval signature  of the SLD 30/SEA or SLD 45/SEA reviewing official.
+   All review item discrepancies (RID) shall be addressed at each design review and  resolved as so on as possible.
+   Documentation requiring the review and approval of Civil Engineering shall be  submitted IAW schedules jointly agreed upon by the Range User and Civil Engineering.
+   Documentation requiring the review and approval of Bioenviron mental Engineering  shall be submitted IAW schedules jointly agreed upon by the Range User and  Bioenvironmental Engineering.
+   Documentation requiring the review and approval of the Fire Marshal/Fire Protection  Engineer (FPE) shall be submitted IAW MI L-STD -3007, Standard Practice for Unified  Facilities and Unified Facilities Guide Specifications  and Unified Facilities Criteria (UFC) 3 - 600-01, Fire Protection Engineering for Facilities .
+ Range Users shall submit documentation justifying the non - critical determination of a facility and/or structure.
+ This documentation shall be submitted at  the SRR or equivalent activity, to ensure thorough identificati on of requirements, and  corresponding cost, schedule, and performance impacts early on.
+ Facility design engineering drawings and  technical specification packages for conventional facilities shall be submitted.
+   Before facility and structure design, design criteria that clearly state Range User  requirements and identifies the essential features and functions required in the facility shall  be submitted.
+   The design criteria document shall be  revised periodically to reflect the current  status of design requirements as they are developed.
+   Test plans shall be submitted IAW the requirements specified in  Attachment  2, A2.
+   The test plan for the fire protection system shall be submitted for review and  approval to the Fire  Marshal/Fire Protection Engineer 45 calendar days before the test.
+  Test reports shall be submitted to Range Safety and the other  agencies noted in Attachment  2, A2.
+ A Facility Safety Data Package (FSDP) providing  detailed des criptions of the hazardous and critical systems in a facility or structure designated  as critical shall be provided.
+   The design of new, rehabilitated, or modified conventional facilities and structures on  the ranges shall comply with the requirements of MIL -STD -3007, UFC 1 -200-01, DoD  Building Code (General Building Requirements) , and the specifications, standards, codes , and  practices of the documents cited in this volume to the extent stated in the text.
+   Concrete structures shall be IAW UFC 1 -200-01 and applicable American Concrete  Institute (ACI) codes and standards.
+   Masonry construction shall be IAW UFC 1 -200-01.
+   Timber construction shall be IAW UFC 1 -200-01, Deutsches Institut Für Normun g  (DIN) [German Institute for Standardisation] EN 1995 -1-1, Eurocode 5: Design of Timber  Structures – Part 1 -1: General – Common Rules and Rules for Buildings , or an equivalent  standard.
+   Aluminum structures shall be IAW UFC 1 -200-01 and the Aluminu m Association  Aluminum Design Manual .
+   Materials shall be compatible with the operational environment.
+   All elevators shall be designed, built, and installed IAW American Society of  Mechanical Engineers (ASME) A17.
+   All elevators shall be inspected, tested, and maintained IAW ASME A17.
+   Elevators shall be equipped with telephones to enable two -way communication.
+   The provisions of National Fire Protection Association  (NFPA) 101, Life Safety Code , shall be incorpora ted in the design of each conventional facility  and structure at the ranges.
+   Power distribution design shall comply with American National Standards Institute  (ANSI)/Institute of Electrical and Electronics Engineers (IEE E) 141, IEEE Recommended  Practice for Electric  Power Distribution for Industrial Plants, and NFPA 70, the National  Electric Code  (NEC) as applicable.
+   Interior electrical design shall comply with UFC 3 -520-01, Interior Electrical Systems ,  ANSI/IEEE 241, Recommended Practice for Electric Power Systems in Commercial  Buildings , and NFPA 70 (NEC).
+   Electrical equipment and its installation shall comply with the requirements of the most  recent edition of the NEC (NFPA 70) or the regulations of OSHA , whichever are more  restrictive.
+   Consideration shall be given to the use of fixed platforms in lieu of extensive use of  personnel tie -offs.
+   If the design process determines that personnel tie -offs are necessary, then fixed,  permanently installed anchorage connectors conforming to OSHA requirements and the  applicable sections of ANSI/American Society of Safety Engineers (ASSE)/American Society  of Safety Professionals (ASSP) Z359 fall protection standards shall be used.
+   Personnel anchorage system components shall be designed and tested IAW  ANSI/ASSE A10.
+   Anchorage and anchorage connectors shall be load tested initially to 5,000 pound s static  and shall not require retesting except for causes such as corrosion, damage, replacement,  modification, repair, or exposure to launch heating.
+   Anchorage and anchorage connectors shall be stenciled or tagged with the maximum  number of perso ns and/or total weight allowed to be attached to the anchor at a given time  using 5,000 pounds per person.
+   Anchorage and anchorage connectors shall be stenciled or tagged with test weight  and  date.
+   Anchorage and anchorage connectors shall be located in accordance with OSHA  requirements and ANSI/ASSE Z359.
+   Anchorage and anchorage connectors shall be located (1) as high as practical to limit  the distance of a potential fall; and (2) so that an individual can attach to the connectors at  waist height or above; and (3) so that the connectors do not endanger fluid or gas lines,  electrical cabling, critical hardware, or flight components when  the lifeline or lanyard is  attached, in use, or under load.
+   Safety swivel hoist rings shall be the preferred connector rather than shouldered eye  bolts.
+   Seismic design of all new or modified facilities, structures, an d installed equipment shall  be IAW UFC 1 -200-01 and UFC 3 -301-01, Structural Engineering .
+   Where specific design guidance is not provided in these manuals, industry standards  such as those of the Structural Engineers Association of California (S EAOC) Blue Book:  Seismic Design Recommendations , International Building Code  (IBC), American Society of  Civil Engineers (ASCE), and the Federal Emergency Management Agency (FEMA) E -74,  Reducing the Risks of Nonstructural Earthquake Damage shall be used.
+  Seismic design shall consider both the vertical and horizontal components of seismic  loading.
+   Facilities, structures, installed equipment, and trailers that must remain operational after  a seismic event shall be designed to the risk importance factors in Table 2 -2, Risk Category of  Buildings and Other Structures, of UFC 3 -301-01, Structural Enginee ring.
+   Equipment installed in facilities needed for post -earthquake recovery shall be designed  to remain operational after a seismic event.
+   Installed equipment that has the potential to cause the following events, directly or by  propagation,  shall be restrained to restrict movement and withstand a seismic event, but need  not remain operational:   4.
+   Structures such as those used for offices, instrumentation, shop, or storage, remaining  in position for longer than 24 hours shall be anchored and stabilized.
+   Such structures shall be anchored to withstand wind and seismic loading per the criteria  in this volume.
+   Steel fa cilities and structures shall be designed IAW the current ANSI/American  Institute of Steel Construction (AISC) 360, Specification for Structural Steel Buildings .
+   Connections shall be designed IAW the current ANSI/AISC 360, Specification for  Structural Steel Buildings .
+   Permanent bolted structural joints shall use high strength fasteners, American  Society for Testing and Materia ls (ASTM) F3125/F3125M.
+   Joints using ASTM A307 and ASTM F3125/F3125M bolts in exterior  applications shall use galvanized fasteners.
+ Joints using ASTM F3125/F3125M heat - treated h igh strength bolts shall use plain fasteners that are coated for corrosion protection.
+   ASTM F3125/F125M fasteners shall not be reused.
+   Welded connections shall use prequalified welded joints IAW ANSI/AISC 360  and Americ an Welding Society (AWS) D1.
+   Welders, welding operators, and tackers shall be qualified IAW AWS  D1.
+   All welds shall be inspected IAW the following criteria:   4.
+   100% of all welds shall be visually inspected IAW AWS D1.
+   Welded single failure point (SFP) connections or connections whose failure  could propagate to a catastrophic event shall be 100% tested as follows: Fu ll- penetration welds (groove or butt) - ultrasonically (UT) tested IAW MIL -STD -1699,  Nondestructive Evaluation of Butt Welds In Crane And Railroad Rails , or the  equivalent; other welds - magnetic particle tested IAW ASTM E1444/E1444M,  Standard Practice for  Magnetic Particle Testing  or equivalent.
+ If rejectable  discontinuities are found, the weld shall be removed and replaced IAW AWS  D1.
+   Nondestructive test personnel shall be qualified to American Society for  Nondestructi ve Testing Standards (ASNT) Recommended Practice No.
+   Structural steel material shall be IAW AIS C.
+   Materials that are susceptible to stress corrosion cracking shall be avoided.
+   Design load assumptions for dead, live, and operational wind loads shall be IAW  ASCE/Structural Engineering Institute (SEI) 7, Minimum Design Loads for Buildings and  Other Structures .
+   Wind loads for facilities and structures shall be designed IAW A SCE/SEI 7.
+   The design loads and load combinations used in the analysis shall be IAW ASCE/SEI  7 and UFC 1 -200-01 and include all unique loads such as personnel anchor points, equipment  loads, impact loads, launch environment loads (rocket engine exh aust impingement, blast  pressure, acoustics, or vibrations).
+ Members shall be designed to withstand the most critical  credible loads and load combinations.
+   Live loads shall be designed IAW applicable sections of 29 CFR 1910, ASCE/SEI 7,  and UFC 1 -200-01.
+   Structural members shall be sized to accept additional moments for the installation of  personnel anchor points as required.
+   Antenna towers shall be designed IAW the current  ANSI/Telecommunications Industry Association  (TIA) 222, Structural Standard for Antenna  Supporting Structures and Antennas .
+   Industrial robots and robot systems shall be designed, installed, tested, and  operated IAW ANSI/Robotic Industries Association (RIA) R15.
+  At a minimum, the design of new, rehabilitated, or modified critical  facilities and structures on the ranges shall comply with the documents cited below to the extent  stated in the text.
+  All elevators in critical facilities shall be equipped with a public address (PA)  speaker where a PA system is available.
+ Emergency telephones shall be provided.
+   Before bein g put into service, any electrical equipment that is not  specifically listed or labeled for the purpose or conditions of operation intended by a  recognized testing agency or that is not manufactured or installed to meet the electrical  classification of the  area in which the equipment is to be operated shall be approved by  Range Safety.
+   Copper conductors shall be used for all electrical wiring installations.
+   Transformers shall use copper winding and connections.
+   Bonding and grounding design and installation requirements for all critical  facilities and structures shall comply with the requirements of NFPA 70, ANSI/IEEE  142, Recommended Practice for Grounding of Industrial and Commercial Power   Systems , and AFMAN 32 -1065, Grounding & Electrical Systems .
+   In addition to a raceway (conduit, cable tray, or busway), a separate  equipment -grounding conductor (NEC green wire) shall be used for all  installations.
+   Grounding sys tems in critical facilities containing launch checkout  and/or data processing equipment (including communications systems) shall follow  the guidelines in MIL -HDBK -419, Grounding, Bonding, and Shielding for  Electronic Equipment and Facilities , for developme nt of the grounding systems.
+   Resistance of the ground electrode system (counterpoise system) shall not  exceed 10 ohms.
+   All facilities used to store, handle, or process ordnance items or propellants  shall be bonded and grounded IAW Defense Explosives Safety Regulation  (DESR)  6055.
+ Facilities with equipment and personnel that require protection  from the generation of static electr icity shall be designed and operated IAW NFPA 77,  Recommended Practice on Static Electricity .
+   At a minimum, lightning protection requirements for critical facilities and  structures shall comply with NFPA 780, Standar d for the Installation of Lightning  Protection Systems .
+   Facilities and structures that require greater protection against direct or indirect  lightning strikes, such as launch pads or explosives storage areas, shall also comply with  the following:   5.
+   For launch pads with launch vehicles and spacecraft sensitive to worst case  electromagnetic field strengths that can be generated by a direct lightning strike on one  of the LPS support towers, the launch pad catenary LPS towers shall serve only as  catenary wire supports and shall not be used as lightning down conductors.
+   Isolation masts shall be used on tops of towers to isola te the catenary wires  from the tower structure and thus prevent lightning strike current from travelling down  the towers.
+  The isolation mast height separating the catenary wire and the tower shall  be sufficient to prevent arcing from tops of masts to the tower structure (flashover) in  case of a worst credible lightning strike.
+   Isolation mast construction shall be structurally capable of supporting  properly tensioned catenary wires.
+   Where required, permanently attached non -conductive  ladders shall be  provided on the inside of the isolation mast to enable access to the tops of masts for  service and maintenance.
+ NFPA 497, Recommended Practice for the Classification  of Flammable Liquids, Gases, or Vapors and of Hazardous (Classified) Locations for  Electrical Installations in Chemical Process Areas , shall be used to identify and  delineate Class I, Division 1 and Division 2 hazardous locations when listed criteria are  more restrictive than in the following s ections.
+   Piping without valves, checks, meters, and similar devices shall not  ordinarily introduce a hazardous condition even though used for flammable liquids or  gases.
+ Locations used for the storage of flammable liquids or of liquefied or  compressed gases in sealed containers shall not normally be considered hazardous  unless also subject to other hazardous conditions.
+ For these types of locations, fixed or  permanently installed electrical equipment shall be designed for the worst -case  hazardous environment.
+ These requirements shall be  followed unless less stringent classifications are justified and approved as part of the  design data submittal process.
+ Range Safety and the Fire Marshal/Fire Protection  Engineer shall approve all potential critical faci lity hazardous location designations.
+ Credible risk shall  be determined through the system safety processes described in SSCMAN 91 - 710 Volume 1, Attachment 2, as well as those specified in SSCMAN 91 -710  Volume 3.
+  The FSDP as discussed  in Attachment  2 shall be used as a record  of this process.
+ For programs that do not warrant a separate FDSP, this  information shall be recorded in the Missile System Pre -Launch Safety Package  (MSPSP) for the program.
+ The quantity of fluids used in the analysis to determine vapor  concentration for these locations shall be the maximum amount allowed in the  explosives site plan.
+ A Safety Data Sheet (SDS) for each hazardous material and  liquid on flight hardware or used in gro und processing shall be available for review at  each location in which the material is stored or used (see SSCMAN 91 -710 Volume 3,  Attachment 2, paragraph A2.
+   The following fuels shall be considered ignitable regardless of the  ambient temperature, and be categorized as follows:   5.
+ The atmosphere within 10 feet of exposed  solid propellant shall be classified as a Class I, Division 1 location.
+ Electrical syste ms and  equipment used in hazardous locations shall be designed and listed for the locations IAW  the following requirements:   5.
+   Explosion proof apparatus shall meet the requirements of the NEC for Class  I, Division 1 or 2, and be listed and labeled  by a nationally recognized testing laboratory  per 29 CFR 1910.
+   Nonincendive apparatus shall meet the requirements of NFPA 70 (NEC),  Article 501, Class I Locations , and ANSI/International Society of Automation (ISA)  12.
+ They shall be listed and labeled by a  nationally recognized testing laboratory per 29 CFR 1910.
+   Intrinsically safe equipment intended for any NEC Hazardous (Classified)  location shall meet the requirements of NFPA 70 (NEC), A rticle 504, Intrinsically Safe  Systems , and Underwriters Laboratories (UL) 913, Standard for Intrinsically Safe  Apparatus and Associated Apparatus for Use in Class I, II, III, Division 1 Hazardous  (Classified) Locations , and be listed and labeled by a nati onally recognized testing  laboratory per 29 CFR 1910.
+   The purged and pressurized enclosure shall be constantly maintained  at a positive pressure of at least 1/10 inch of water above the surrounding  atmosphere during operation of the protected equipment.
+   Rooms into which unprotected personnel may  enter shall be purged  with air only.
+   Purged rooms and enclosures shall be provided with an audible and  visual alarm set to trigger when the pressure drops below 1/4 inch of water.
+   Portable electrical equipment shall be designed  for the worst -case SSCMAN91 -710V5  27 DECEMBER 2022  21  hazardous environment in which it will be used.
+ Portable equipment that is not  designated for use in a particular hazardous environment shall not be allowed in  that environment.
+ Backup power sources shall be provided for critical load  requirements when the following conditions apply:   5.
+   Where the loss of power  could result in injury and/or death to personnel,  emergency power systems shall be provided IAW NFPA 110, Standard for Emergency  and Standby Power Systems , and NFPA 70 (NEC), Article 700, Emergency Systems .
+   Where the loss of normal power would  cause damage to or loss of  government facilities and/or flight hardware, standby power systems shall be provided  IAW NFPA 70 (NEC), Article 702, Optional Standby Systems .
+   Fencing encompassing critical facilities shall have emerg ency egress gates.
+   A sufficient number of gates shall be provided and located to preclude the  necessity for personnel to egress toward or past any potential hazard.
+   If fencing can become electrically charged by lightning, falling electr ical power  lines, or component failure of adjacent electrical equipment, such as substation  transformers or switchgear, fences shall be grounded and gates bonded.
+   Locations in which there is a potential hazard of oxygen deficiency, toxicity,  or explosive vapors that could result in personnel injury or death shall be provided with  air monitoring systems.
+ Explosive vapor  (flammability) monitoring shall be accomplished by permanently installed systems  reporting vapor concentration data to a remote location.
+   Range Users, Bioenvironmental Engineering, and Range Safety shall  evaluate and identify locations that require air -monitoring systems.
+   Department of the Air Force personnel shall comply with Department of the  Air Force Manual (DAFMAN) 91 -203, Air Force Occupational Safety, Fire, and  Health Standards , Chapter  23, Confined Spaces , for confined space management and  entry procedures.
+ All other personnel shall comply with OSHA 29 CFR 1910.
+   Continuous monitoring equipment with local and remote ala rms and primary  power and backup battery power shall be installed in the hazardous area.
+   The alarm shall be audible above ambient noise levels and shall not be  capable of being locally silenced.
+ The alarm flashing lights shall not be covered,  obscured, or locally disabled.
+   The remote alarm signal shall be transmitted to the blockhouse, operations  control center, or range fire department where 24 -hour continuous monitoring is  provided.
+   Alarms at local and remote locations shall have visual and audible signals.
+   Local warning indicators including signs and portable flashers shall be  provided.
+ For oxygen  deficiency monitoring  systems, alarms shall be activated IAW minimum OSHA requirements.
+ Toxicity monitoring systems shall be configured to  provide measurements from a sampling location in proximity to the worker brea thing zone.
+   Occupational and environmental exposure limits (OEELs) established in  AFMAN 48 -146, Occupational and Environmental Health Program Management ,  shall be used for the protection of Department of the Air Force and other government  personnel.
+ Monitoring shall be performed at time  intervals and sampling points as designated by the Bioenvironmental Engineer to  ensure workers are not exposed above OEEL requirements.
+ Non -credible exposure t o DAF  and other government personnel shall be determined by Range Safety and the Range  Bioenvironmental Engineers.
+ For explosive hazard protection, 25% of  the LEL shall never be exceeded.
+ The monitoring system shall be able to detect  concentrations at 1% LEL within 1 meter proximity of the leak source and have a  response time of less than 1 minute unless Range Safety concurs that engineering  mitigations, such as sufficient ai r mixing, enables less stringent monitoring.
+ The activation level shall be designed to prevent accumulation of  explosive vapors to exceed 25% of LEL at clos e proximities.
+ All air monitoring equipment shall be calibrated annually  unless otherwise directed by Range Safety and Bioenvironmental Engineering.
+   MSTs without means of propulsion shall be moved only with approved tow  vehicles sized properly to move the tower safely against the worst -case wind conditions  under which the move is permissible.
+ The tow connection points on th e MST shall be  designed with a minimum safety factor of 3:1 on yield.
+   MSTs shall be properly tied down in both parked and service positions and not be  left on the runway between the parked and service position.
+  Leading wheel hard stops shall  be provided in both locations to prevent movement of the tower once it is secured.
+ All  provided tie -downs shall be secured regardless of wind conditions.
+ An analysis shall be  done on the anchoring system to demonstrate adequate margin against worst -case hurri cane  force winds.
+ The anchoring system shall be initially proof tested to 125% of the highest  expected load.
+ The anchoring system shall be maintained per approved inspection and  corrosion protection plan.
+ Lockers or cabinets positioned for the purpose of  storing flammable, toxic, reactive, or caustic materials shall be designed IAW NFPA 30,  Flammable and Combustible Liquids Code , and DAFMAN 91 -203.
+   Battery shops shall be designed IAW DAFMAN 91 -203, Chapter 31, Batteries –  Maintenance, Handling and Storage Requirements  and NFPA 70 (NEC), Article 480,  Storage Batteries .
+   Dedicated stora ge and processing areas for batteries that have the potential for  venting hazardous fluids shall be designed with the following:   5.
+   Cable -operated overhead doors shall be designed to the specified duty cycle.
+   The load path components, including such items as the fabric strap/rope,  wire ropes, and belts, shall have a minimum ultimate safety factor of 5 to 1.
+  If  terminations that are capable of less than 100 percent of the strength of the support  system are used  (for example, clips and clamps), the safety factor reduction shall be  compensated for.
+   If single failure points (SFPs) cannot be designed out of the system, the doors  or individual door panels shall be equipped with secondary safety devices to  prevent  the door or panels from falling in the event of a single point failure.
+ Fabric connections  shall use rounded corner cuts, not square cuts, to prevent stress tearing.
+   The doors and/or individual door panels shall be designed to remain retained  in the door guides even in the event of the door falling as a result of the support system  failure.
+   If a counterweighted system is used, the counterweight travel path shall be  caged at the building floor level to protect personnel and equipment.
+ Where  counterweight failure and floor impact could cause damage to flight hardware, damping  devices shall be used.
+   Means shall be provided to secure the counterweigh t (if used) and unload  the support system when the door is in a fully closed position.
+   Individual support system components, including reeving such as sheaves,  drive sprockets, ropes, and straps, shall be readily accessible for inspection and r epair.
+   A means to adjust the individual ropes/straps to compensate for stretch shall  be provided.
+   A manual backup system to operate the doors in the event of the electric  motor failure shall be provided.
+   Motor -holding brakes shall be a failsafe design; in other words, they will  automatically set by spring action upon loss or removal of power to the motor.
+   The motor -holding brake shall be designed to hold at least 150% of the  motor torque and the static torque exerted by the weight of the door.
+   Fabric doors over 100 feet high shall have an intermediate structural header  the full width of the door.
+ The structural header shall be placed mid -height and support  the entire weight of the lower sections of the door when the door is closed.
+ The upper  fabric sections of the door shall never support the entire weight of the door.
+   All cable -operated overhead doors shall be equipped with sensors or a  similar safety device to ensure that the door will not close if there is an obstruction in  the door path.
+   The lowest panel edge of the door shall be equipped with a door st op trip  switch that will automatically stop the door if the door hits an obstruction.
+ The force  required to stop the door shall not exceed 30 pounds.
+   An NDE/maintenance/test plan shall be prepa red by the Range User and  approved by Range Safety.
+   Initially, all load path SFP components and SFP welds shall be  volumetrically and surface inspected.
+   Periodic NDE inspections, routine maintenance, and testing shall be  performed a s documented in the NDE/maintenance/test plan.
+  Where RLV/reentry vehicle O&M activities take place, the facility design shall include, but is  not limited to the unique hazards posed by recovery, decontamination, inspection,  refurbishment, and/or overhaul of RLV/reentry vehicle systems and components.
+   All facilities, including launch complexes, and designated RLV/reentry vehicle  nominal and contingency landi ng site, used to store, handle, or process ordnance items or  propellants shall be properly sited and approved IAW DoD quantity distance criteria and  explosives safety standards as specified in Defense Explosives Safety Regulation  (DESR) 26 SSCMAN91 -710V5  27 DECEMBER 2022   6055.
+   Designated RLV/reentry vehicle nominal and contingency landing sites  shall be identified in both the FSDP and MSPSP for evaluation and any required  Explosive Site Plan (ESP) approval process.
+ Civil Engineering shall assist Range Safety to submit explosive  site plans through Weapons Safety channels for review and approval.
+ Final approval shall be obtained before the start of construction.
+1 exp losives shall not be approved by license or non - license.
+   If Range Safety determines that a facility modification or operational change  affects the explosive site plan, the Range User shall provide the documentation required by  DESR 6055.
+ Final approval shall be obtained before the  start of construction.
+   Range Safety shall approve movement or relocation of a hazardous operation  and/or system into a facility.
+   Temporary buildings or trailers shall not be placed inside an explosive safety clear  zone without Range Safety approval.
+   Explosives storage, ha ndling, and processing facilities shall be designed and  constructed IAW DESR 6055.
+   When it is necessary to design explosives facilities in such a manner as to ensure  against propagat ion of explosions between adjacent rooms or nearby facilities, analysis and  design of walls, doors, roofs, and other similar items shall conform to UFC 3 -340-02.
+ Range Safety shall  make the determination on a case -by-case basis.
+   Each explosives facility shall have an area warning system to alert personnel  near, entering, or in the area as to the hazard status of that area.
+  The warning system shall consist of warning lights and audible signals  augmented by PA announcements.
+   Each facility shall have an instruction sign at the entry point explaining the  area warning system.
+   The visual and audible w arning systems shall be visible and audible  throughout the facility in 360 degrees in direction and, at a minimum, the public traffic  route (PTR) distance IAW DESR 6055.
+   Area warning systems shall be used at work areas within ov erall controlled  areas such as fuel or oxidizer storage areas, mobile service towers, and test cells to  display locally controlled hazard status.
+   All area warning system electrical circuits (warning lights, audible alarms)  shall be designed with an independent backup power system that is activated by an  automatic transfer switch.
+   Permanently installed  area warning lights shall be designed to provide for  flashing green, flashing amber, and flashing red lights to show the hazard status of the  affected area.
+   Audible warning signals shall be provided in the form of an audible horn or  tone devic e and PA system.
+ These signals shall be audible throughout the controlled  areas and immediate vicinity.
+   Warning horn and/or tone oscillator controls shall be eas ily accessible  for emergency use.
+   Audible alarms shall be capable of both local and remote activation.
+   Audible alarms shall sound both locally and at the monitoring station.
+   Each storage tank shall be located in its own reinforced concrete  containment bay or compartment.
+   Each containment bay shall be capable of holding at least 4 times the tank  capacity.
+   The containment walls shall be designed to withstand the hydraulic pressure  created when the bay is filled to the top with liqu id.
+ These walls shall be at least 12 28 SSCMAN91 -710V5  27 DECEMBER 2022   inches thick and constructed IAW UFC 3 -340-02 unless engineering studies determine  that less protection is acceptable for present and known future requirements.
+   Storage facilities that contain multiple tanks  and their containment bays shall  be designed so that the exterior walls of the structure are 12 inches higher than the  interior bay walls.
+   The floor area for each containment bay shall be kept to a minimum to  reduce the potential spill area and resulting evaporation rate to prevent exposing the  general public and nearby facilities.
+   Propellant transfer areas shall be ca pable of containing 4 times the capacity  of the largest mobile tanker to be used at the facility.
+   Open shed construction shall be used for fuels to provide adequate shade and  weather protection with maximum ventilation un less specific conditioning  requirements require closed or confined storage.
+   Closed or confined areas shall have adequate ventilation to prevent ignitable  or toxic concentrations of vapors.
+ If natural ventilation is inadequate, a mechanical  exha ust ventilation system shall be provided.
+   Forced draft ventilating systems shall be designed so that a fire in the storage  facility will automatically cause shut down.
+   Remote manual controls shall be provided for ventilation systems .
+   Facilities and structures that may contain hypergols shall be designed to  provide isolation of the fuels and oxidizers.
+   Propellant transfer systems shall be designed to ensure that no single failure  can ca use mixing of the propellants.
+   Propellant transfer system design shall ensure that all non -compatible fuels  and oxidizers are separated so that inadvertent operation of either the oxidizer or fuel  subsystems cannot cause mixing of the propellan ts.
+   All incompatible propellant system connections shall be keyed or sized so  that it is physically impossible to interconnect or cross -connect them.
+   All hypergolic storage facilities and structures shall be designed to protect  against hypergols contacting incompatible, static producing, or absorbent materials.
+   If the compatibility of a particu lar material is unknown, the Range User shall  perform tests to develop compatibility data for review and approval by Range Safety.
+  All exterior structural steel used in a hypergolic storage facility shall be  coated with a hypergolic -compatible protective coating.
+ If these alloys are used, they shall be positively protec ted by  distance, sealing in a compatible material, or use of a splashguard.
+   All hypergolic propellant storage facilities and structures shall be provided  with a gravity drain sump system.
+   The gravity drain and sump system shall provide drain and containment  capability for both containment bay floors and propellant transfer aprons.
+   Sump tanks shall be located below grade with a capacity to hold 4 times the  volume of the l argest mobile tanker to be used at the transfer station.
+   The drainage system from the containment bay floors and the transfer apron  to the containment sump shall be underground, below grade and sloped to provide  gravity flow to sump.
+   Containment bay floors and transfer aprons shall be sloped to low point drain  fittings.
+   Welded drain fixtures, piping, and sump tanks shall be fabricated from 304L  or 316L stainless steel.
+   Sump tanks shall have an offload system capable of transferring the sump  contents to each of the following locations: a dedicated emergency storage tank , a  mobile waste tanker, and to grade.
+   The facility shall have the capability to sample the contents of each sump.
+   All drain valves shall be manually controlled.
+   All drain valves located below grade shall be provided wi th valve  extensions.
+   Gaseous nitrogen (GN2) purge interfaces shall be located at the drain  system high points to facilitate draining to the system low point.
+   A dedicated emergency storage tank shall be provided in hypergolic  propellant storage facilities.
+   The capacity of the dedicated emergency storage tank shall be equal to the  largest storage tank, plus 10%.
+   A transfer system to move p roducts from any storage tank to the dedicated  emergency storage tank shall be provided.
+   All routine venting shall go through a scrubber and/or incinerator.
+   Bioenvironmental Engineering shall re view and approve the scrubber and/or  incinerator design.
+   Optical fire detectors shall be used to detect fires.
+   The detectors shall be set and/or filtered to the specific radiation  wavelength of the fire to be detected: N 2H4, MMH,  UDMH, or A50.
+   The detectors shall be capable of performing self -checks.
+ At a  minimum, these self -checks shall determine the internal status of the detector as  well as the cleanliness of the detector window.
+   The detectors shall include manual remote and automatic self -testing  capability.
+   All possible sources for false alarms shall be identified for the storage  facility.
+   The selection of detectors and the design of the detection system  shall reduce th e probability of these sources causing false alarms.
+   The containment bays and transfer areas shall be protected by an  automatic and manually activated wa ter spray system IAW the requirements of  NFPA 15, Standard for Water Spray Fixed Systems for Fire Protection .
+   The water spray system shall be of the deluge valve and open spray  nozzle type.
+   The spray systems shall deliver a coarse spray of water not less than  0.
+   The spray system shall del iver a coarse spray of water not less than 0.
+   The deluge system shall be capable of preventing propagation of a fire  from the affected bay to adjacent bays.
+   An ordinary deluge system or w et pipe system shall be installed.
+ One of the following leak detection systems shall be  provided at the storage facility to detect hypergol leaks:   5.
+   Each storage vessel shall b e equipped with a mechanical liquid level  sensing and indicator system having remote readouts and alarm capabilities.
+   A programmable controller shall be provided to interpret 1/16 inch  liquid level deviations and send an alarm to the range fire department.
+   Readout of level and alarm shall be installed on site.
+   A hypergolic vapor detection system (HVDS) shall be provided to  detect hypergolic leaks from storage vessels.
+   Continuous monitoring equipment with local and remote alarms and  primary power and backup battery power shall be instal led in the hypergolic storage  facility.
+   The alarm shall be audible above ambient noise levels and shall not be  capable of being locally silenced.
+ The alarm flashing lights shall not be covered,  obscured, or locally disabled.
+   The remote alarm signal shall be transmitted to the blockhouse,  operations control center, or the range fire department where 24 -hour continuous  monitoring is provided.
+   Alarms at local and remote locations shall have visual and audible  signals.
+   The set point shall be determined on a case -by-case basis with a  maximum set point of 25 percent of the LEL.
+ If a facility vapor control system is installed, it shall  meet the following requirements:   5.
+  A fixed foam vapor suppression system shall be provided to control the  amount of vapor released from a large hypergol leak or spill.
+   The system shall be manually controlled only.
+   The system shall be installed in each containm ent bay and transfer area.
+   Range Safety, the Fire Marshal/Fire Protection Engineer, and  Bioenvironmental Engineering shall review and approve the performance  characteristics of the foam and delivery system.
+   Change areas for “suiting up” and staging equipment and support personnel  shall be provided.
+ Communications support between these areas shall be provided.
+   Facilities shall be available for decontamination of equipment and  personnel wearing per sonal protective equipment after operations.
+ If used, this room shall be shown to be protected from hypergolic vapor leakage into the  room through wall openings, door seals, cracks, or other openings including ventilation  systems intake.
+   Enclosed facilities used for processing easily detonated or ignited  hypergolics sensitive to static electricity shall have conductive, non -sparking floors.
+   Conductive floors shall be designed IAW DoD 4145.
+ Exception: The  resistance fro m the facility ground to any point on the floor shall be IAW DESR  6055.
+   Conductive floors shall be tested IAW AFMAN 32 -1065.
+   A containment system shall be provided for all areas where hypergolic  transfer operations occur.
+   The containment system shall have the capability to hold 4 times the volume  of the largest hypergolic container used in the transfer area.
+   The containment system area shall be kept to a minimum to reduce the  potential spill area and resulting evaporation.
+   Enclosed areas used to process hypergols shall have a manually activated  purge system.
+ The  performance and efficiency criteria for the purge system shall be  reviewed and approved by Range Safety during the conceptual design phase.
+   Activating the purge system shall energize the emergency exhaust fan for  the selected area and set the corresponding air -handling unit (AHU) in emergency  mode.
+   The AHU shall go to maximum outside air intake.
+   The AHU shall close off its return air damper.
+   The AHU shall open its exhaust damper and exhaust fan.
+   Manual purge station boxes shall be located on  the exterior of the enclosed  area immediately adjacent to the exit door.
+   Manual purge station boxes shall be single -action type switches with  normally open contacts.
+   The manual purge station boxes shall be covered to prevent in advertent  activation.
+   Enclosed hypergol operating areas shall be designed to operate at a  lower pressure relative to adjoining rooms during propellant transfer.
+   Facilities that may contain hypergols shall be designed to provide isolation  of the fuels and oxidizers.
+   Propellant transfer systems shall be designed to ensure that no single failure  can cause mixing of the propellants.
+   The propellant transfer system design shall ensure that  all non -compatible  fuels and oxidizers are separated so that inadvertent operation of either the oxidizer or  fuel subsystems cannot cause mixing of the propellants.
+   All incompatible propellant systems connections shall be keyed or sized so  that it is physically impossible to interconnect or cross -connect them.
+   All hypergolic processing areas shall be designed to protect against  hypergols contacting incompatible, static producing, or absorbent materials.
+   If the compatibility of a particular material is unknown, the Range User shall  perform tests to develop compatibility data for review and appro val by Range Safety.
+   Exhaust duct material shall be compatible with the vapors to be exhausted  in the maximum predicted concentration.
+ If these alloys are used, they shall be positively protected by  distance, sealing in a compatible container, or use of a splashguard.
+   All hypergolic propellant processing areas shall be provided with a gravity  drain sump system.
+   The gravity drain sump system shall provide drain and containment  capability for transfer areas and temporary storage areas.
+   Sump tanks shall be located below grade with a capacity to hold 4 times the  volume of the largest hypergol container to be used in the transfer area.
+   Welded piping and sump tanks shall be fabricated from 304L or 316L  stainless stee l unless otherwise approved by Range Safety.
+   Sump tanks shall have offload capability.
+   The facilit y shall have the capability to sample the contents of each sump.
+   All drain valves shall be manually controlled.
+   All drain valves located below grade shall be provided with valve  extensions.
+   GN2 purge interfaces shall be located at the drain system high points to  facilitate draining to the system low point.
+   Environmental enclosures on launch complexes shall be designed to  provide the capability to “mop and sop” hypergolic spills a t the transfer areas.
+ The  “mop and sop” system shall be designed to transfer spilled propellant from catch basins,  drip pans, and other areas to the interface with the facility gravity drain and sump  system.
+   For off -pad facilities and structur es, the drainage system from the transfer  and storage areas to the containment sump shall be underground and gravity fed.
+   For off -pad facilities and structures, transfer and storage area floors shall  be sloped to low point drain fittings.
+  All transfer areas shall have safety showers, wash down hose,  and eyewash stations.
+   All routine venting shall go through a scrubber and/or incinerator.
+   Bioenvironmental En gineering shall review and approve the scrubber and/or  incinerator design.
+   Civil Engineering shall permit scrubbers and/or incinerators for use.
+   Optical fire detectors shall be used to det ect fires.
+   The detectors shall be set and/or filtered to the specific radiation  wavelength of the fire to be detected: N 2H4, MMH, UDMH, or A50.
+   At a minimum, these self -checks shall determine the internal  status (functional/non -functional) of the detector as well as the cleanliness of  the detector window.
+   All possible sources for false alarms shall be identified for the  processing area.
+   The selection of detectors and the design of the detection system  shall reduce t he probability of these sources causing false alarms.
+   Processing areas shall be protected by a water s pray system IAW  NFPA 15.
+   The water spray system shall be of the deluge valve and open spray  nozzle type.
+   The fire protection system shall be designed to provide personnel  protection from the most severe hazard anticipated during  processing operations.
+   The deluge system shall be capable of preventing propagation of a fire  from the affected bay to the adjacent bays.
+   An ordinary deluge system or wet pipe system shall be installed.
+   An HVDS shall be provided to detect hypergol leaks in processing areas.
+   Continuous monitoring equipment with local and remote alarms and primary  power and backup battery power shall be installed in the hypergolic propellant  processing facility.
+   The alarm shall be audible above ambient noise levels and shall not be  capable of being locally silenced.
+ The alarm flashing lights shall not be covered,  obscured, or locally disabled.
+   The remote alarm signal shall be transmitted to the blockhouse, operations  control center, or the range fire department where 24 -hour continuous monitoring is  provided.
+   Alarms at local and remote locations shall have visual and audible signals.
+   The set point shall be determined on a case -by-case basis with a maximum  set point of 25 percent of the LEL.
+   Each enclosed hypergolic propellant processing area shall be equipped with  an emergency power cutoff (EPC) system that permits manual shutdown of all non - essential electrical equipment in the event of a leak or other emergency.
+   The EPC system shall meet the following design requirements:   5.
+   A manual EPC switch shall be located at each exit from a processing  area and shall be designed for use in a Class I, Division 2, Group C classified   location.
+   Actuation of any of the manual EPC switches shall result in the  following:   5.
+ The  following emergency response systems shall not be shut down: emergency  lights, crane, communication system, air monitoring system, purge system, and  fire protection system.
+   A general alarm shall sound throughout the facility.
+   An alarm signal shall be sent to the facility emergency monitor and  control panel.
+   An alarm signal shall be sent to the range fire department.
+   The manual EPC switch shall be a surface -mounted “slap” switch SSCMAN91 -710V5  27 DECEMBER 2022  37  located immediately adjacent to each exit.
+   EPC switches shall be mounted 4.
+   EPC switch es shall be covered to prevent inadvertent actuation.
+   A single, twist -lock outlet receptacle shall be marked to indicate that  it is not controlled by the EPC system.
+   All other outlet receptacles shall be marked to indicate tha t they are  controlled by the EPC system.
+   An emergency control panel shall be provided in the facility at a convenient  location.
+   The control panel shall provide the following functio ns:  5.
+ Windsocks shall be provided adjacent to all enclosed hypergolic  propellant processing facilities.
+ Windsocks shall be clearly vi sible at night.
+   Change areas for “suiting up” and staging equipment and support personnel  shall be provided.
+ Communication support between these areas shall be provided.
+   Facilities shall be available for decontami nation of equipment and  personnel wearing personal protective equipment after operations.
+ This room shall be shown to be protected from hypergolic vapor leakage into the room  through wall openings, door seals, cracks, or other openings including ventilation sy stems in - take.
+   Before initial startup  operations of new and modified facilities and structures, Range Users shall coordinate with and  support Pad Safety in carrying out required inspections IAW DESR 6055.
+   Before facility activation, the functional capability of all emergency and critical systems  in the facility shall be demonstrated.
+   At a minimum, the following applicable emergency and critical systems shall be tested  IAW approved test plans to verify compliance with the design standards and requirements for  the system contained in Chapter  4 and Chapter  5 of this volume:   6.
+   As applicable, Range Users shall demonstrate the proper interaction of all systems that  are interrelated in one integrated end -to-end test.
+   Critical systems, a s identified in SSCMAN 91 -710 Volume 3, that will be part  of a facility design and not addressed in any program Missile System Prelaunch Safety  Plan (MSPSP), shall be addressed as part of the FSDP.
+ Duplicate information need not be  incorporated in both the  FSDP and MSPSP, but shall be referenced between the documents.
+ The FSDP shall be submitted by the Range  User res ponsible for overseeing the construction of these facilities.
+   Drafts shall be provided at least 30 calendar days before each of the conceptual,  preliminary, critical, and fin al (30, 60, 90 and 100 percent) design reviews.
+   The final submission shall be at least 30 calendar days before intended facility  activation.
+ The FSDP shall be approved before the activation of the facility.
+ Where applicable,  previously approved documentation shall be refer enced throughout the package.
+   Summaries of the analyses, test plans, and test results shall be provided in the  FSDP as appendixes.
+  The actual analysis, test plans, and test results shall be provided as  separate   docu mentation for review and approval.
+ The FSDP shall include a copy of any  approved Explosive Site Plan (ESP) for RLV/reentry vehicle operating locations.
+   The Range User shall provide Range Safety the FSDP via electronic means.
+ The FSDP shall contain a table of contents and  a glossary.
+ The “introduction” section shall address the scope and p urpose of  the FSDP.
+ The “general description” section shall present an  overview of the facility and the major hazardous and critical systems as a prologue to the  individual system descriptions.
+ The  final facility and  structure design criteria shall be provided as an appendix to the FSDP.
+ During the design process,  the final design calculations for safety critical issues, such as wind lo ading and the safety  critical portions of facilities, such as blast walls, doors, and windows, shall be provided.
+ During the design process, the seismic design analysis  for conventional and critical WR facilities, structures , and installed equipment shall be  provided.
+ The portable/mobile structure  anchoring analysis shall be either referenced in, with a summary of results, or appended to  the FSDP.
+ Hazard analyses of facilities, structures, and emergency and  critical systems shall be provided IAW SSCMAN 91 -710 Volume 1, Attachment 3, System  Safety Program, as jointly tailored by Range Safety and the Range User.
+ At a minimum, a  summary of each h azard analysis shall be provided in the FSDP.
+ If applicable, demolition plans for conventional and critical  facilities shall be referenced in or appended to the FSDP.
+ Facility  and design engineering drawings and technical specification packages shall be submitted  with the latest revision dates.
+   Supporting data shall be included or summarized and referenced, as  appropriate, with availability upon request.
+ Each of  the following emergency and critical system design drawings and specifications shall be  referenced in the FSDP.
+ Design drawings and specifications for other systems identified  by Range Safety shall also be referenced.
+ Critical systems identified in SSCMAN 91 - 710 Volume 3 that will be a part of a facility design and will not be addressed as part of  any program MSPSP shall be addressed in the FSDP.
+ As applicable, data requirements  from SSCMAN 91 -710 Volume 3, Att achment 2 shall be included in the FSDP.
+ Test plans for the following applicable systems  shall be submitted for review and approval to Range Safety and oth er applicable agencies 46 SSCMAN91 -710V5  27 DECEMBER 2022   45 calendar days before the test.
+ Safety critical test plans and test reports shall be summarized in the FSDP.
+  The actual plans and results shall be referenc ed in or provided as an appendix to the FSDP.
+ Post -activation requirements for use of a  facility shall be addressed.
+ Copies of all Range Safety approved noncompliances  including waivers and equivalent levels of safety certifications shall be included.
+ All changes shall be highlighted using change bars or similar means  of identification.

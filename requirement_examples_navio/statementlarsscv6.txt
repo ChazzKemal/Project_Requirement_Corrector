@@ -1,0 +1,1044 @@
+ Commercial users intending to provide launch services from one of the  ranges shall have a license  or license application in process from the Department of  Transportation's Federal Aviation Administration (FAA) or have a DoD sponsorship and be  accepted by the DoD to use the ER or WR.
+  Foreign government organizations or other foreign  entities shall be sponsored by an appropriate US government organization or be a customer of a  Range User.
+  Range User proposed  solutions shall be evaluated against  requirements in this manual.
+ Alternative solutions other than those offered in bordered  paragraphs shall demonstrate an equivalent level of safety and be approved by Range  Safety.
+ When there is a conflict between federal regulations, industry  standards, and other requirements, the mo re stringent requirement shall be used.
+   During the review and approval process, both Range Safety and the Range User  shall assure timely coordination with other SLD agencies as appropriate.
+  Unless otherwise noted in this volume, both shall be referred to as Pad Safety for simplicity.
+  Pad Safety shall participate in meetings and events as  directed by Range Safety, including the following:   2.
+ Note : Pad Safety personnel   shall not be denied access to any area where hazardous operations are conducted, IAW  approved procedures.
+   When present, Pad Safety shall ensure the emergency evacuati on of  personnel from launch complexes and facilities, and that operations are halted when a  lightning hazard is imminent IAW the various safety plans.
+  Pad Safety shall provide oversight of  Range User activities when the hazards of the activity are unique and not covered by  OSHA, and when haz ardous operations have the potential to endanger beyond the  boundaries of the launch complex, as follows:   2.
+  Note :  Pad Safety shall be  included in the maximum allowable manning level, unless Range Safety determines  that adequate support  can be provided from a remote location.
+ If requested by Range Safety, a written report shall be provided to Range  Safety within five calendar days of the violation.
+  The following  information shall be provided: date, time, nature of the operation, location, and procedure  or task number.
+   Before initiating hazardous or safety critical operations, the following shall be  accomplished:   2.
+   All personnel shall be protected during the performance of operations.
+   Personnel observing an unsafe operation or practice shall report their observations to  one of the following individuals:   3.
+  Any action taken by any of the individuals as authorized above  to stop an unsa fe operation where imminent danger is involved shall be followed by direct  verbal, telephone, or radio communication and notification to Range Safety, the Squadron  Commander, the Vice Commander for Operations, or their designated representative.
+  The government Contracting Officer or Administrator  for an Air/Space Force Construction Contract shall be immediately notified of any work  stoppage.
+   GOPs shall be developed IAW the requirements in  Attachment  2 and submitted to Range Safety for review and approval.
+   Incremental drafts of the GOP shall be provided to Range Safety 45 calendar days  before the Preliminary Design Review (PDR), and Critical Design Review (CDR), or  equivalent program activities, but no later than one y ear before the projected date the hardware  will arrive at the ranges.
+   The final GOP shall be submitted 45 calendar days prior to the Pre -Ship Review (PSR)  or equivalent program activity.
+   The GOP shall be approved before the start of any haz ardous operations.
+   Test and inspection plans shall be developed to document the  initial and recurring validation of component compliance and assessment of hazards.
+  Test and  inspection plans shall be developed for the foll owing items that include, but are not limited to,  material handling equipment, ground support pressure vessels, and ground support propellant  systems.
+   Unless otherwise specified in a separate part of this volume that addresses a  particular class of system or equipment, logs and test records shall be maintained on critical  ground support systems and major fixed equipmen t.
+  Logs and test records shall comply  with the following:   4.
+   Logs and test records shall contain chronological entries including:   4.
+   Discrepancies and out of specification results shall be clearly identified.
+   Resolution of discrepancies and out of specification results shall be noted.
+   Logs and test  records shall be maintained for the life of the system/equipment.
+   Logs and test records shall be available to Range Safety upon request.
+  Unless otherwise specified in a  separate part of  this volume that addresses a particular class of facility, inspection records of  hazardous facilities shall comply with the following:  SSCMAN91 -710V6  27 DECEMBER 2022  17  4.
+   Hazardous facility inspection records shall be maintained by Facility Operators  and/or Range Users in accordan ce with DESR 6055.
+   At a minimum, hazardous facility inspection records shall include discrepancies  and discrepancy resolution.
+  These records shall be available to Range Safety upon reque st.
+   Written reports describing actions taken to correct discrepancies shall be  submitted to Range Safety within 15 calendar days, or sooner if requested by Range Safety.
+  A floor plan layout for  all explosives facilities and/or areas showing all grounding system test points shall be  developed and maintained by the Facility Operator and/or the Range User.
+   At the ER, OSPs shall be developed by ER Pad Safety and submitted to  Range Safety for review and approval 30 calendar days before initial use.
+  Range users  shall provi de data to Pad Safety for the development of OSPs.
+ Final OSPs shall be  coordinated with the Range User.
+   At the WR, Range Users shall develop their OSPs in accordance with  paragraph  4.
+2  Incremental draft versions of the OSP shall be submitted to the  Launch Vehicle Safety branch (SLD 30/SEAL) for review and comment 45 calendar  days prior to the PDR, CDR, and PSR, or equivalent program activities.
+ The final  version of the OSP shall be supplied to SLD 30/SEAL no later than 45 calendar days  before the start of any hazardous operations at Vandenberg SFB.
+  OSPs shall meet th e following requirements:   4.
+   OSPs shall be developed for all hazardous operating areas including launch  complexes and associated areas and facilities (e.
+   OSPs shall be developed for unique, but frequently repeated, operations that  require special or detailed safety considerations not addressed in this publication.
+   OSPs shall clarify and provide detailed safety requirements that are   particular to the operating area or operation in question.
+   At a minimum, OSPs shall contain, address, or provide reference to the  following:   4.
+   FEOPs shall be developed by facility operators and submitted to Range Safety for  review and approval at least 45 calendar days before facility use, unless otherwise agreed  upon.
+   FEOPs shall also address emergency and recovery procedures for a seismic event  (WR only).
+ These procedures shall detail emergency shutdown procedures and inspections  of critical systems to ensure operation of safety controls were not compromised during the   seismic event.
+ An assessment of the facility and its components shall be completed before  resuming normal operations.
+   EEPs detailing safety and emergency actions shall be developed by facility  operators and po sted in every building, facility, and area.
+   EEPs shall include the following information:   4.
+   Identification of primary and alternate EEAPs; EEAPs shall be designated  by signs.
+   Procedures and general operating instructions for all operations conducted on the  ranges shall be developed.
+   All procedures shall be written IAW requirements provided in Attachment  2.
+   Brief summa ries of all procedures shall be submitted as part of the GOP review  and approval process.
+  At that time, the operating procedure summaries shall be designated  as “Hazardous,” “Non -Hazardous,” or “Safety Critical.
+”  These designations shall be  justified in the operating procedure summaries.
+   Revisions to procedures shall be submitted to the launch complex safety control  authority for review and appro val.
+   Procedures for hazardous and safety critical operations shall be devel oped IAW  the requirements in Attachment  3.
+  Emergency actions shall be included in the procedures.
+  Approval of hazardous and safety critical procedures shall not be given until the per tinent  data sections of the MSPSP and GOP have been reviewed and approved.
+   A training plan listing all training courses used for personnel  involved with hazardous or safety critical operations and procedures shall be submitted to Range  Safety as part of the GOP.
+  A Mishap Notification Plan shall be developed by the Range  User and coordinated with Range Safety to ensure proper and timely notification of mishaps.
+   The plan shall be included in the GOP.
+   The Range User shall review and comply  with existing Department of the Air Force  (DAF) plans and directives regarding debris recovery.
+   Range Users shall provide the DRP to Range Safety no later than 60 days prior to a  static fire or launch date for approval, prior to initiating operations.
+   The DRP shall include, at a minimum, the following informa tion:  4.
+  A list of personnel training,  certification, and experience requirements shall be available as part of the Range User training  plan.
+  All Range Users shall ensure that their personnel receive formal safety, fire  prevention, and occupational health orientation and training before receiving a controlled  area badge.
+   Unique personnel training and certification requirements for hazardous operations  such as ordnance, crane operations, forklift operations, and self -contained atmospheric  protective ensemble (SCAPE) operations shall be specified in the a ppropriate procedures.
+   Each duty period for mission ready and mission  support personnel, including  participation in a launch or launch attempt activity, shall be preceded by an available rest  period.
+  Those personnel  identified to support operational tests shall not be scheduled for duty during the planned  rest period.
+  The following criteria shall be  used for determining hours worked versus rest time for all personnel who work with  hazardous systems, materials, or components, or who accomplish prelaunch fu nctions that  require a high degree of concentration:   5.
+   When 12 -hour shifts are required and launches are rescheduled on a 24 -hour  basis, consideration shall be given for a 48 -hour launch delay after 3 consecutive back - to-back launch attempts.
+   In the event mission impacts or operational requirements  necessitate 12 -hour  shifts, mission ready personnel shall not be scheduled for more than 5 consecutive 22 SSCMAN91 -710V6  27 DECEMBER 2022   shifts without a 48 -hour break and mission support personnel shall not be scheduled  for more than 6 consecutive shifts without a 24 -hour break.
+ Rest periods and break periods shall be provided  according to appropr iate regulations and negotiated agreements.
+   If, after a complete evaluation of the potential hazards involved, mission  requirements dictate a duty period in excess of 12 hours, the following criteria shall  apply:   5.
+   In coordination with the Range U ser, Range Safety shall determine which  procedures require a pathfinder and its necessary fidelity.
+ These pathfinder operations shall  be documented in the GOP.
+, operations involving  live ordnance, pressure systems, propellants, RLV decontamination), including  contingency procedures, pathfinder operations shall be conducted at the ranges using inert  or dummy ordnance, non -pressurized systems, or non -fueled systems.
+   Handling o perations shall be performed with inert or dummy equipment that  simulates the flight unit in form, fit, function, weight, and center of gravity.
+   Pressure and propellant system operations shall be performed with  equipment that simulates flight e quipment valve connections and operations.
+   Pathfinder operations shall use GSE that will be used for flight operations.
+   Range Safety and the Range User shall jointly develop acceptance criteria  for pathfinder operations and evaluate  whether the acceptance criteria have been met.
+  The launch complex authority shall  establish personnel limits, entry control, and control areas for all hazardous operations with  Range Safety approval.
+ Whe n hazardous Range User operations have the potential to impact  areas outside of their user control area boundary, Range Safety shall approve these and any  deviations.
+   Personnel limits shall be established for all hazardous operations and tasks  and approved by Range Safety.
+   Hazardous areas shall be fenced, barricaded, or cordoned off and personnel  access control maintained at a central control point.
+   Access roads shall be closed by barricades, guards, or signs during  hazardous operations for positive control of personnel and vehicles.
+  Emergency  vehicles shall not traverse the controlled area if another route is available.
+   A returned space vehicle shall be regarded as a hazardous system, and access  shall be subject to entry control procedures and personnel restrictions for hazardous  ground operations until all systems are placed into or confirmed to be in a safe state.
+   Non-essential personnel shall leave hazardous areas (safety clearance zones)  before the start of operations.
+   Whenever a warning light status is changed or an audible signal is sounded,  a PA announcement shall precede it and identify  the reason for the change.
+   Each facility and/or area shall have instruction signs informing personnel of  the area aural and warning light scheme before entry.
+   The buddy system shall be used in all hazardous operations.
+  Access shall be positively controlled.
+  Non -essential personnel shall be cleared from the controlled  area.
+ Personnel shall not enter without permission from the launch complex safety  control authority.
+ All personnel shall evacuate the controlled area to the EEAP.
+  This signal shall  be ac companied by the sounding of an audible alarm and a PA announcement.
+  Hot work (open flame) operations including  welding, soldering, cutting, brazing, grinding, or heating of materials in such a manner as  to cause a source of ignition shall be c onducted in accordance with DAFMAN 91 -203, Air  Force Occupational Safety, Fire and Health Standards , (Chapter  27, Welding, Cutting, and  Brazing ); 29 CFR 1910.
+  All welders shall be trained and  certified by competent authority to standards no less than those established by the  American Weldin g Society (AWS).
+   A written permit shall be obtained from the Fire Marshall before performing  hot work.
+   A fire watch shall be maintained during and after the hot work until such  time the fire watch determines that the combustion hazard no longer exists.
+   Proper housekeeping and protective shields and barriers shall be used to  prevent inadvertent combustion.
+   Combustibles shall be kept at least 35 feet away from the operation.
+   A suitable fire extinguisher shall be available.
+  Hot work within ordnance or  propellant areas shall be coordinated with Range Safety or Pad Safety as well as the range  Fire Department.
+  Hot work shall not be performed on containers and lines that may have  contained explosives or flammables and that have not been properly cleaned and purged.
+ Hazardous energy sources shall be controlled  through a lockout/tagout pro gram that complies with the requirements of 29 CFR 1910.
+   Personnel who enter and work within permit -required confined spaces shall  comply with appropriate controls as defined i n 29 CFR 1910.
+   All Range Users, contractors, and subcontractors who will be entering confined  spaces other than the contractor’s equipment and flight hardware shall contact the Range  Safety Occupational Safety Office at the start of the project to obtain information abou t the  confined space.
+   Hand -held tools, equipment, and personal belongings shall be tethered in any area  where dropped objects could pose a hazard to personnel.
+   The Range Use r shall comply with all applicable federal, state, and Operations Safety  Plan PPE requirements.
+   All PPE shall be compatible with the hazardous materials involved.
+ PPE for propellant  handling and ordnance operations shall be subject to approval by Range Safety and  Bioenvironmental Engineering.
+   Based on a hazard assessment, appropriate attire t hat minimizes exposed body areas and  potential for mishaps shall be identified in operating procedures for hazardous and safety  critical operations in industrial and missile operating areas.
+   The Range User shall comply will all fede ral, state, and facility -specific fall  protection requirements.
+   The Range User shall observe and use applicable industry standa rds for smoking areas.
+  No smoking signs shall be posted as directed by the range Fire Department.
+  Smoking is prohibited at all times and flame - producing devi ces shall be prohibited within the following areas:   5.
+  Conditions under which launch com plexes, launch vehicle and payload  assembly areas, and other hazardous areas shall be cleared due to a threat of lightning shall be  specified in the OSP (see paragraph  4.
+   The Range User shall comply with operational restrictions during lightning  watches and warnings as established in Range Safety approved Operations/Facility Safety  Plans.
+   The Range User shall provide steps to procedurally safe propellants and ordn ance  during lightning watches and warnings when required by the Operations/Facility Safety  Plans or Range Safety.
+   Personnel shall not work on scaffolds during storms or high winds.
+   For winds of 18 -29 knots as measured on or closest to specific facilities, no work shall  be performed on the exterior surface of umbilical or mobile service towers or other tall  structures unless spi der staging or similar suspended work devices are safely secured to the  structure.
+   No work shall be performed on the exterior surfaces of umbilical or mobile service  towers or other tall structures except for emergency tasks.
+   Work performed during emergency conditions shall be approved by the launch  complex safety control authority, and all suspended work devices shall be secured to the  structure.
+   Facilities shall be used within the limits of their design.
+  If facilities are leased  from the DAF, the Range User shall coordinate with Range Safety and Civil Engineering  for proper use  within the limits of their design.
+   Only those operations that are consistent with facility design, materials,  equipment, and personnel shall be performed in the facility.
+   The use of facilities for hazardous storage or processing operations shall be  approved by Range Safety.
+   Facilities used for hazardous activities shall have an FEOP and an Evacuation Plan  developed by facility operators.
+   Facilities shall be inspected before first use, upon modification, before  operations, and at least annually, as determined by the Range User, Fire Department,  and Range Safety.
+   For facilities licensed/sited for explosives and propellants, inspe ction reports  shall be maintained in accordance with DESR 6055.
+   Actions shall be taken to correct discrepancies identified during inspections.
+  Records of discrepancies and discrepancy corrections shall be maintained for 3 years.
+   A verbal report shall be made to Range Safety within the same day of the  inspec tion if discrepancies are found that may delay a planned operation or endanger  personnel or material handling equipment (MHE) used to handle critical hardware, or  the critical hardware itself.
+   Written reports describing actions taken to correct  discrepancies identified  during inspections shall be submitted to Range Safety within 15 calendar days or less  if deemed necessary by either group.
+   A systematic visual examin ation of facilities, related GSE, and any work in  progress that could cause accidental damage to property or injury to people or affect  the launch schedule shall be performed by the launch complex safety control authority,  and by Pad Safety when Range User  operations in that facility have the potential to  endanger personnel or resources outside the launch complex.
+   A safety inspection shall be performed on launch complexes, explosives  storage and processing facilities and areas, and in hazardous processing and checkout  facilities according to the  following schedule:   5.
+   Explosives storage and operating areas and facilities shall be inspected by  Pad Safety at least annually to ensure compliance with explosives safety criteria.
+  The facility operator shall inspect explosive storage  and operating areas and facilities at least once a month.
+  As deemed appropriate b y Range Safety, spot -checks of  range facilities shall be performed to ensure compliance with this publication.
+   The safety requirements for a normal launch shall be met during static firings.
+ The  appropriate danger area clearin g shall be specified in the OSP.
+   For vertical solid motor test firing without active FTS, a thrust termination device,  such as an impaler ring above the motor, shall be provided to terminate the motor thrust in  case of a restraining test stand structure failure.
+   Equipment shall not be used in operations unless it meets the requirements in  SSCMAN 91 -710 Volume 3, Chapter 6, unless otherwise tailored and/or agreed to by  Range Safety.
+   All MHE shall be operated, tested, and maintained IAW the applicable  requirements of this publication, OSHA, DAFMAN 91 -203, and other military and  industry standards including, but not limited to, ANSI, ASME, and the National Fire  Protection Association (NFPA).
+   All equipment used by the Naval Ordnance Test Unit (NOTU)  and that has been  approved by the Chief of Naval Operations, Department of Energy, and the DoD for the  specific purpose for which it is used shall be considered in compliance with this  publication.
+   All users of MHE used for safety critical opera tions shall have written and  approved procedures that cover selection, operation, maintenance, and testing of the MHE  used.
+ Note: Operations that include maintenance of the MHE and use of these items with  no safety critical loads shall not be considered sa fety critical operations.
+ Those operations  that involve MHE and safety critical loads including direct contact, such as supporting the  load, or within the immediate vicinity, such as moving the MHE without a load over a  hazardous commodity, shall be consid ered safety critical operations.
+   Operators shall be mentally and physically capable of safely operating the  MHE.
+   Operators shall be physically tested for vision and hearing before being  assigned to operator duty and annually thereafter.
+   Operators shall be trained in the safe operation of the MHE us ed and the  hazards to which they are exposed.
+   Operator training shall include, but not be limited to, the following topics:   6.
+   All MHE to be used for hazardous operations and/or safety critical operation s shall  be identified to Range Safety.
+   All MHE shall be verified as safe for its intended use by the Range User.
+   Load tests shall be conducted with certified weights and/or certified weight  fixtures, IAW the requirements of SSCMAN 91 -710 Volume 3, paragraph 6.
+   All damaged MHE shall be removed from service until all discrepancies are  corrected and verified through test or inspection as suitable for service.
+  All MHE shall be marked with the next inspection due date.
+) shall be p rovided IAW requirements of SSCMAN 91 -710 Volume 3 data requirements,  and shall be maintained by the Range User for the life of the MHE.
+ This documentation shall  be made available to Range Safety for audit upon request.
+ All slings shall be operated, maintained, and tested in  accordance with ASME B30.
+ Slings used to support critical  operations shall be inspected and tested to 100% of the manufacturer’s rated load within  one year of intended use, unless the Range User has proposed, with supporting risk  analysis, and Range Safety has approved, an alternate test interval.
+ Following  modifications and repairs, critical slings shall be proof loaded to the same level as new  slings, in accordance with ASME B30.
+ Slings shall be inspected  befor e every use.
+ Sling inspection shall be IAW frequent and periodic inspection 32 SSCMAN91 -710V6  27 DECEMBER 2022   methodologies described in ASME B30.
+9, and shall follow a Range Safety approved NDE  plan.
+   Load positioning devices and LIDs shall be operated, maintained, and tested  IAW the manufacturer instructions and the additional requirements described below.
+   Load positioning device and LID operators shall be trained and certified  IAW manufacturer recommendations.
+   Before every use, load positioning devices and LIDs shall be inspected.
+ Load  positioning devices and LIDs showing evidence of damage or rejectable criteria shall  not be used in operations.
+   LIDs used to support critical operations shall be properly calibrated before  use.
+ If a wireless remote read out control is used with the LID, it shall be calibrated and  display the same weight as the LID.
+   Load p ositioning devices and LIDs used to support critical operations shall  be inspected and load tested to 100% of the rated load within one year of intended use,  unless the Range User has proposed, with supporting risk analysis, and Range Safety  has approved, an alternate test interval.
+ Following any modifications or repairs, critical  load positioning devices and LIDs shall be proof load tested to the same level as new  load positioning devices or LIDs, to include calibration in accordance with  manufacturer inst ructions.
+ After the proof load test, NDE shall be performed on critical  load positioning devices or LIDs per a Range Safety approved NDE plan.
+   Before every use, handling struct ures shall be visually inspected in accordance  with applicable industry methodology and the Range Safety approved NDE plan.
+  Structures showing evidence of damage or rejectable criteria shall not be used in  operations.
+   Handling structures used to support critical operations shall be inspected and load  tested to 100% of the rated load within one year of intended use, unless the Range User has  proposed, with supporting risk analysis, and Range Safety has approved, an alternate test  interval.
+ Followin g any modifications or repairs, critical handling structures shall be proof  load tested to the same level as new handling structures.
+ After the proof load test, NDE  shall be performed on critical handling structures IAW a Range Safety approved NDE plan.
+ All BTHLDs shall be operat ed, maintained, and  tested in accordance with ASME B30.
+   BTHLDs shall be visually inspected in accordance with frequent and  periodic inspection methodologies described in ASME B30.
+20,  and shall follow the  Range Safety approved NDE plan.
+ BTHLDs showing evidence of damage or rejectable  criteria shall not be used in operations.
+   BTHLDs used to support critical operations shall be inspected and load  tested to 100% of the rated l oad within one year of intended use, unless the Range User  has proposed, with supporting risk analysis, and Range Safety has approved, an  alternate test interval.
+ Following any modifications or repairs, critical BTHLDs shall  be proof load tested to the sam e level as new BTHLDs in accordance with ASME  B30.
+ After the proof load test, NDE shall be performed on critical  BTHLDs in accordance with a Range Safety approved NDE plan.
+   Before every use, support structures shall be visually inspected in  accordance with applicable industry methodology and the Range Safety approved NDE  plan.
+ Structures showing evidence of damage or rejectable criteria shall not be used  operations.
+   Support structures used to support crit ical operations shall be inspected and  tested to 100% of the rated load within one year of intended use, unless the Range User  has proposed, with supporting risk analysis, and Range Safety has approved, an  alternate test interval.
+ Following any modificatio ns or repairs, critical support  structures shall be proof load tested to the same levels as new critical support structures.
+  After the proof load test, NDE shall be performed on critical support structures IAW a  Range Safety approved NDE plan.
+ All rigging hardware shall be operated,  maintained, and tested in accordance with ASME B30.
+   Before every use, riggi ng hardware shall be visually inspected in  accordance with ASME B30.
+26 shall be removed from  service.
+   Rigging hardware used to support cri tical operations shall be inspected and  load tested to 100% of the rated load within one year of use.
+ Following any  modifications or repairs, critical rigging hardware shall be proof load tested to the same  level as new critical rigging hardware in accorda nce with ASME B30.
+ After the  proof load test, NDE shall be performed on critical rigging hardware IAW a Range  Safety approved NDE plan.
+  All cranes and hoists shall be identi fied, tested,  maintained, and operated in accordance with ASME B30 series standards, ASME Hoist (HST)  standards, Crane Manufacturers Association of America (CMAA) 70, Specifications for  Electric Overhead Traveling Cranes , CMAA 74, Specifications for Top Running and Under  Running Single Girder Electric Overhead Traveling Cranes Utilizing Under Running Trolley  Hoist , DAFMAN 91 -203, and NFPA 70, National Electric Code .
+   All operators of facility cranes used on the range shall have the applicable training  and qualifications listed in DAFMAN 91 -203 (Chapter 12, Material Handling Equipment ),  ASME B30 series, 29 CFR 1910.
+ Annual crane operator certification is  required and shall be conducted in three parts:   6.
+ Employers shall ensure their personnel  receive classroom training as evidenced by testing.
+ Employers shall maintain records  for each operator they employ.
+ The employer shall provide hands -on  training, evaluati on, and certification in the form of a card that includes the following:   6.
+   Portal and mobile crane operators shall be certified according to Naval  Facilities Engineering Command (NAVFAC) P -307, Weight Handling Program  Management .
+   Crane operators not certified according t o NAVFAC P -307 shall be trained  and certified according to the requirements detailed above.
+   Using a pre -operational checklist, daily, or otherwise b efore first use,  inspections shall be conducted on the equipment to be used at the beginning of each  shift.
+   Daily inspections shall cover the following items:   6.
+ If a slack rope condition has occurred, inspectors shall be  positioned to observe the rope seating in the drum and sheave grooves as the load is  reapplied, and concurrently inspect the rope for damage.
+   Cranes and hoists shall be inspected and tested, at a minimum, IAW the  requirements and intervals (frequent and periodic) specified by SSCMAN 91 -710  Volume 3, as applicable.
+   Cranes and hoists not  used for critical loads shall be load tested to 100% of  rated capacity within four years of their intended use IAW the requirements in  SSCMAN 91 -710 Volume 3.
+   Following any modification or repair, cranes and hoists shall be proof loaded  in acc ordance with ASME B30.
+ NDE shall  be performed on critical cranes and hoists after the load test per a Range Safety  approved NDE plan.
+   Following periodic crane load tests, hooks shall be inspected in accordance  with ASME methodology; surface NDE and hook inspection shall be performed on  exposed portions of the hook IAW the NDE plan.
+   Given permanent reference marks from initial measurement of each  side of a hook opening, the distance betwe en the marks shall be measured and  recorded during periodic investigations.
+ Acceptance/rejection criteria shall be in  accordance with ASME B30.
+   Hook load -bearing attachment holes shall be inspected and their 36 SSCMAN91 -710V6  27 DECEMBER 2022   dimensions recorded duri ng periodic inspections.
+   For hooks having load -bearing holes, hooks with holes having cracks  or wear exceeding the manufacturer criteria shall be repaired or replaced.
+   Hook throat opening and load -bearing attachment holes shall be  inspected, per the NDE plan, and thr oat and load -bearing hole measurements shall  be taken and recorded.
+ Measurements and inspection results shall be compared to  the acceptance/rejection criteria in ASME B30.
+  Hooks exceeding the inspection criteria shall be repaired or replaced.
+   The Range User shall ensure cranes and hoists used to handle critical  hardware and used in hazardous environments shall be maintained, inspected, and  tested periodically on an annual basis.
+   The annual test shall consist of the following:   6.
+   The hoist emergency load lowering system shall be tested to verify that  it is fail -safe and function properly.
+ The load shall be lowered a minimum of 2 feet.
+   The hoist overload detection devices shall be tested to verify that they  activate when the test weight is greater than 110% of the rated load.
+   Wire rope shall be inspected at least monthl y using a go/no -go gauge at  numerous random locations to assess reduction in diameter along the entire length of  rope.
+ Any broken wire or other observed defects shall be reported for further  evaluation.
+   Hooks shall be inspected at least monthly  for visible cracks or deformities.
+  The tram points shall be measured for throat spread.
+ A straight edge shall be used to  evaluate twisting.
+   Brakes shall be inspected at least quarterly for the amount of lining  remaining and indications of over heating or glazing.
+ The brake shall be adjusted to  specifications.
+   Following major m aintenance or modification, initial acceptance inspection and  testing shall be conducted IAW the requirements of SSCMAN 91 -710 Volume 3, 6.
+   If an accidental overload condition occurs, cranes and hoists shall be subjected to  a complete initi al re-inspection and retest.
+   The equipment user shall submit a written report to Range Safety detailing the  nature, cause, and effect of the overload.
+   The load shall be restricted to no more than 75% of rated capacity for each crane  for non -critical lifts.
+ The load shall be restricted to no more than 50% of rated capacity for  each cra ne for critical lifts.
+   All mobile crane dual lifts shall require load cells and cab -installed load indicators.
+   A dry run with a geometric/mass simulator shall be required for all safety critical  operations.
+   A Dual Crane Lift P lan addressing the following information shall be submitted  to the launch complex safety control authority for review and approval:   6.
+ All field and mobile cranes operated on the range for  permanent or short -term use shall be properly inspected, functionally validated, maintained,  and c ertified according to DAFMAN 91 -203, 29 CFR 1910, 29 CFR 1926, NASA -STD - 8719.
+   The use of mobile cranes to lift critical hardware shall be justified to and approved  by Range Safety on a case -by-case basis.
+   All critical mobile crane lifts shall require a lift plan.
+   The lift plan shall contain the same informati on listed in paragraph  6.
+   Prior to conducting a critical lift wi th a mobile crane, the upper limit switch shall  be tested for proper functioning by raising an empty hook to the upper limit, activating the  upper limit switch, and verifying that the hoist stops.
+ After the load is hoisted a small  distance, the load shall be left hanging for approximately three minutes (i.
+   Mobile cranes used for critical lifts shall be derated to 50% of their original  load  capacity.
+ The total weight of the load shall not exceed 50% of the crane rated capacity for  the given lift radius and load line reeving configuration of the crane.
+   Load charts shall be used as the primary means for determining safe loads fo r  various boom angles.
+ Crane computers shall not be used as a sole means for this  determination.
+   Evolutions that actually involve man -rated lifts shall also comply with operational  requirements in this chapter and ASME B30.
+ For man -rated  lifts, the total weight of the loaded personnel platform and related rigging shall not exceed  50% of the rated capacity for the radius and configuration of the crane or derrick.
+ Range users utilizing mobile cranes shall  submit a data package to Range Safety for review and approval that provides evidence that  the mobile crane meets the following requirements:   6.
+ The person responsible for supervising  lifting op erations shall ensure the following:   6.
+   If using a mobile crane, the following criteria shall  be met:   6.
+   The area shall be set up so that the lift is made within the shortest  possible radius.
+   The lift shall be made over the rear of the crane, if possible.
+   Outrigger floats shall be made of 4 x 4 inch or cross -hatched 2 x 4 inch  lumber, a minimum of 4 x 4 feet square or equivalent support.
+   When using outriggers, they shall be fully extended and raise the crane  so that the wheels are off the ground unless the crane is designed for partial  outrigger use and has appropriate load rating charts.
+   No part of the crane or load shall pass within 10 feet of an electrical  power line unless the line is de -energized and visibly grounded on both sides of the  area of possible contact.
+   Outriggers and outrigger floats shall be used on flat surfaces.
+   Operators shall not exceed inclination angles specified by the mobile 40 SSCMAN91 -710V6  27 DECEMBER 2022   crane manufacturer when locating, then leveling the mobile crane prior to lifting  operations.
+   Operators shall not operate mobile cranes upon unapproved, temporary  foundations at unimproved surfaces or on road bearing surfaces not rated for the  lifting load.
+   Systems shall have sufficient assistant operators or spotters to make sure that  all sides of the system are clear for operation.
+   All operators or spotters shall have aural communications for coordination  between themsel ves when power is on the system.
+   Tag lines shall be used when there is potential for load sway that could  damage the article lifted, high value equipment, or flight hardware.
+   Tag line personnel shall not impart undesirable motion to the load.
+   If the weight of the load to be lifted is not known, the weight shall be  estimated with a reasonable degree of accuracy before attempting to lift the load.
+ To attach the load, the crane hook shall be positioned directly  over the center of gravity of the load before attachment unless authorized in a written  procedure approved by Range Safety.
+   The load shall be lifted to a height sufficient to clear all obstacles in its  intended path.
+ Offset lifts exceeding design specifications shall not be attempted.
+   Offset angles shall be kept to a minimum.
+   When lifting a load, load lines shall not contact load girts, structural  members, or any other obstructions.
+   Mobile or boom -equipped cranes shall not be used for off -perpendicular  lifting due to the severe hazard of tipping the crane over or of collapsing the boom.
+   Crane maintenance instructions or checklists shall include directions to lo ok  for evidence of apparent offset lift damage during inspections.
+   Crane operations involving lifting of hazardous or explosive materials shall  be limited to only those perso nnel required to perform the task.
+   A safety clearance zone shall be established in the vicinity around the load  and all non -essential personnel cleared to a safe distance.
+   Horizontal and vertical travel speeds shall be kept at a saf e level and shall  be addressed, as appropriate, in procedures.
+   Each lift shall be planned so that the load is suspended for a minimum  amount of time.
+   The load shall not be lifted until immediately before intended travel.
+   The most direct route of travel shall be used.
+   Loads shall not be carried over critical hardware except when that load is  being mated to the critical hardware.
+   The landing area shall be prepared so that the load may be set down  immediately at the end of travel.
+   If the load remains suspended for any length of time, the safety clearance  zone shall remain in force.
+   The load shall not be carried over personnel nor shall personnel be allowed  to place any part of their bodies under any part of the load.
+   The load shall be transported as low as possible but at a height sufficient to  clear all obstacles that may be in its path.
+   An alarm device or personnel accompanying the load shall be used to clear  other persons out of the load path.
+   Tag lines shall be used to control movement of the load and not impart  undesirable motion to the load.
+   Tag lines shall be long enough to protect personnel from being struck by  the load.
+   Tag lines shall be used when there is potential for load swing that could  damage the article lifted, high value equipment, flight hardware, property, or cause  injury or death.
+   Crane operators shall be instructed to stop motion sh ould anyone be in the  path of the load or if anyone signals to stop.
+   Two-way communication between the test conductor and crane operator  shall be maintained.
+   Personnel work platforms shall be operated, maintained, and tested IAW the manufacturer  instructions and the additional requirements listed below.
+   At a minimum, periodic tests shall be performed on all personnel work  platforms annually IAW the requirements of SSCMAN 91 -710 Volume 3 paragraph  6.
+   Visual inspection shall be performed annually on all hinges, attaching  points, and other hi gh stress or abuse prone components on all platforms.
+ All aerial work platforms shall be  operated in accordance with the safe -use practices described in ANSI/SAIA A92 series  standards.
+ All aerial work platforms operated in a  hazardous environment as defined by NFPA 505, Fire Safety Standard for Powered  Industrial Trucks Including Type Designations, Areas of Use, Conversions, Maintenance, SSCMAN91 -710V6  27 DECEMBER 2022  43  and Operation , shall be approved for fire safety purposes by a nationally recognized tes ting  laboratory (for example, Underwriters Laboratories, Inc.
+   Only qualified and trained personnel shall operate aerial work platforms.
+   Usage in NFPA 505 Hazardous Area Classifications shall be restricted to  aerial work platforms with the a ppropriate designation per UL 558, Standard for Safety,  Industrial Trucks, Internal Combustion Engine Powered , UL 583, Standard for Safety,  Battery Powered Industrial Trucks , or comparable nationally recognized testing  laboratory.
+   A risk assess ment shall be performed, and any identified mitigations  emplaced prior to using aerial work platforms in close proximity of critical hardware  where inadvertent operation could result in damage of same.
+ All powered industrial trucks shall be  operated in accordance wit h safe -use practices described in ANSI/ITSDF B56 series safety  standards.
+ All powered industrial trucks shall be approved  for fire safety purposes by a nationally recognized testing laboratory (for example, UL , FM)  using nationally recognized testing standards, bear mark(s) evidencing testing, and bear the  appropriate designation (D, DS, DY, E, ES, EE, EX, G, GS, LP, LPS).
+   Only qualified and trained personn el shall operate powered industrial trucks.
+   Use in NFPA 505 Hazardous Area Classifications shall be restricted to powered  industrial trucks with the appropriate designation per UL 558, UL 583, or a comparable  nationally recognized testing laborat ory.
+   A risk assessment shall be performed, and any identified mitigations emplaced  prior to using powered industrial trucks in close proximity of critical hardware where  inadvertent operation could result in damage of the hardware.
+   If external attachments, such as special lifting adaptors, are attached to the forks  for lifting, the attachment components shall have the proper load rating and meet the  appropriate testing requirements in this publication.
+   Critical loads shall not exceed 75% of the lift truck rated capacity.
+   Freight elevators used for the movement of ordnance that has been  removed from the original shipping containers, toxic propellants, or other hazardous materials  shall be controlled remotely (i.
+, personnel shall not ride in elevators during movement of these  materials).
+   Acoustic (noise) protection shall be provided IAW  the requirements in 29 CFR 1910.
+   All potential hazardous noise sources that could be exposed to personnel in the work  environment shall be identif ied to the launch complex safety control authority.
+   Identified noise sources of concern shall be surveyed.
+   A means of warning personnel before entering the noise hazard area shall be provided.
+  A description of the hazard and what measures a re necessary to ensure the safety of personnel  shall be included.
+   Personnel and electro explosive devices (EEDs) shall not be exposed to hazardous levels  of non -ionizing radiation.
+   All non -ionizing radiation operations shall be conducted IAW the requirements of the  following standards, as applicable:   8.
+   The use and operating location of no n-ionizing radiation producing devices shall be  approved by Range Safety and the Installation Radiation Safety Officer (IRSO).
+   Radio frequency (RF) transmitters shall be operated using  Range Safety and IRSO approved proce dures with the appropriate controls established.
+   Before transmitting, areas in which power density leve ls exceed permissible  exposure limits shall be controlled to restrict access.
+   The Range User or site operator shall comply with any relevant haza rd analyses  and/or IRSO -conducted survey recommendations.
+   Where applicable, all safety controls shall be verified by site personnel before  operation to ensure proper function.
+ If transmission is required while performing these  verifications, the tests shall be performed at low output power or with a dummy load.
+ Steps  for performing these verifications shall be incorporated into procedures.
+   All new, modified, or relocated RF transmitters shall be reported to Range Safety  and the IRSO at l east 30 days prior to hardware installation so that potential hazards can  be evaluated.
+ At  a minimum, RF silence within the complex or area shall be required.
+   Radio transmitters shall be kept away from systems with installed EEDs in  accordance with the guidance found in AFI 91 -208, Hazards of Electromagnetic Radiation  to Ordnance (HERO) Certification and Management .
+   Transmitting devices shall be kept a  minimum of 50 feet from a fueling area unless  they are intrinsically safe.
+ Optics and lasers shall be operated in accordance  with AFI 48 -139, Laser and Opti cal Radiation Protection Program , any Range -specific  supplements or instructions, and ANSI Z136.
+ All optical devices and lasers capable of injuring person nel  shall be operated using Range Safety approved procedures with the appropriate controls  established.
+   Periodic inspections shall be conducted to ensure the laser and controls are in safe  working condition.
+   Inspection records shall be maintained for the life of the program.
+   Inspe ction records shall be available at the request of Range Safety.
+   Laser beams directed toward flammable or explosive materials, pressurized  systems, any other system that may become hazardous due to laser energy o r directed  toward sensitive components of FTSs shall not exceed allowable limits as determined by  Range Safety.
+   Activated lasers shall not be left unattended.
+   Unattended lasers shall be locked out and otherwise safed.
+   If applicable, electrical and mechanical azimuth and elevation stops, and other  safety devices shall be verified before performing each laser operation.
+ Steps for  performing these verific ations shall be incorporated into procedures.
+   All nominal hazardous procedural items shall be accomplished including, but not  limited to, the following:   8.
+   Range Safety and the IRSO shall approve all procedures for handling  radioactive sources.
+   All ionizing operations shall be planned and conducted so that  personnel exposure is as low as reasonably achievable, but in no case shall the maximum dose and  exposure limits in 10 CFR 20, Standards for Protection Against Radiation , be exce eded.
+   In addition to the requirements in this publication, Range Users  shall also comply with AFMAN 40 -201, AFI 48 -109, and any SLD -specific supplements or  instructions.
+   CCSFS Cape Support (ER) or Range Scheduling (WR), Range Safety,  and the IRSO shall be notified of the location of radioactive material if spilled, released, or  dispensed either by design or accident.
+   Flight ra dioactive sources shall be installed as late  in the countdown as practical.
+   Mishaps involving radioactive materials shall be reported in  accordance with DAFMAN 91 -110 and DAFI 91 -204.
+   Hazardous operations shall be conducted in  accordance with 29 CFR 1910.
+   Hazardous materials procedures shall be established  and include, but not be limite d to, the following topics:   10.
+   Appropriate control measures shall be established for the use of hazardous materials  based on known properties.
+ If properties are unknown, testing shall be performed subject to  approval by Range Safety.
+   Approved containers shall be used.
+   Containers shall remain capped (covered) when not in use.
+   Quantities shall be limited as approved by the Authority Having Jurisdiction  (AHJ).
+   Work areas shall contain no more than the quantity required for a single shift.
+   Work areas shall not be used for storage unless approved storage cabinets and  lockers are available.
+   Local or general exhaust ventilation shall  be used to control solvent vapors from  reaching toxic levels.
+   Materials that are themselves not hazardous, but that can be hazardous in  conjunction with other materials, shall be controlled.
+   The type and quantity of hazardous materia l shall be compatible with the location  and/or facility.
+   When personnel are in confined spaces, hazardous materials and chemicals shall  only be used in accordance with a 29 CFR 1910.
+ Proper  ventilation shall be used to ensure that buildup and/or pocketing  of hazardous materials and chemicals have been vented or offgassing does not occur.
+   In the event of an unplanned toxic release, the Range User shall comply with the SLD  IEMP, AFI 1 0-2501, Air Force Emergency Management Program , and any SLD -specific  supplements, instructions, or plans.
+ Materials prone to electrostatic charge buildup shall not be used within 10  feet of exposed solid propellant grain and static sensitive ordnance.
+   Compliance with the restriction on static -producing materials is handled on a  case-by-case basis; however, the following criteria shall be used as a guideline:   10.
+   Materials shall not come into contact with a system having an installed  EED or other ordnance.
+   Materials shall not come within 10 feet of exposed solid propella nt grain;  for example, no nozzle plug or cover.
+   Materials shall not come within 50 feet of exposed flammable liquids.
+   Compliance for the use of materials that could be flammable is handled on a  case-by-case basis; however, all mater ials that are used in the vicinity of ordnance or  flammable liquids, such as hypergolic propellants, shall pass the material tests described  below.
+   Materials such as contamination covers, thermal blankets, splash shields , Velcro,  tape, and any other material located in the vicinity of liquid propellant areas or ordnance  areas shall be evaluated for compatibility with their intended use.
+   Results of material compatibility testing shall be made available to Range Safety.
+   Testing shall address the following material characteristics:   10.
+   Range Safety shall approve the use of materials based on the test results.
+   Material deficiencies shall result in operational restrictions.
+ Hazardous commodity  lockers or cabinets shall be positioned and used for the purpose of storing flammable and  combustible liquids in accordance with 29 CFR 1910.
+ The Range User shall inspect hazardous  commodity lockers at least monthly.
+   CCSFS Cape Support (ER) or Range Scheduling (WR) shall be notified of any  hazardous material requiring disposal.
+ Note : If required, additional guidance shall be obtained  from Civil Engineering (Environmental Coordinator) or th eir designated representative and  Range Safety.
+   Disposal of toxic or contaminated liquid propellants, gases, or other wastes shall be  performed using methods and techniques approved by Range Safety and Civil Engineering  (Environmental Coordinator)  IAW SLD -specific hazardous waste management programs and  any applicable federal, state, and local regulations.
+   Range Users shall notify Civil Engineering to obtain proper clearance and support to  dispose of wastes before the generation of such wa stes.
+   As needed, those operations involving toxic propellants shall be conducted under the  surveillance of Environmental Health and Pad Safety to ensure the safety of personnel involved  in the operation and personnel located in adjacent or downwin d areas   10.
+   Records of management and identification of wastes shall be maintained by the  organization generating the waste.
+   Records of disposal of toxic materials shall be maintained by Environmental Flight or  their designated contractor as outlined in the applicable hazardous waste management plan at  the ranges.
+   All spills or releases of hazardous substances, includin g petroleum products, shall be  reported to CCSFS Cape Support (ER) or Range Scheduling (WR) and Pad Safety  immediately.
+   Only pressure systems that meet the des ign requirements of SSCMAN 91 -710 Volume  3 as tailored for each specific program by Range Safety shall be operated on the ranges.
+   The handling and storage of propellants shall be IAW Chemical Propulsion  Information Agency (CPIA) 394, Hazards of Ch emical Rockets and Propellants , and DESR  6055.
+   Propellants  shall be used and stored only in Range Safety approved facilities designed  and suited for that purpose and only during time periods approved by Range Safety.
+   Propellants shall be used and stored only in systems that meet the design requirements  of SSCMAN 91 -710 Volume 3 (Chapter  11 and Chapter  12) and shall be approved by Range  Safety.
+   Portable or mobile vessels and packaging used for transportation of pressurized or  hazardous commodities shall be maintained and recertified IAW applicable  Department of  Transportation (DOT) CFR 49 regulations.
+   If a DOT vessel is installed on a permanent basis, it shall fall under the recertification  requirements for a fixed system.
+ All personnel who operate, test, and  maintain pressure systems shall be trained and certified.
+  PPE for propellant handling shall be subject to approval by  Range  Safety and Bioenvironmental Engineering.
+   PPE shall be identified by type and model number in a Range Safety  approved procedure.
+   Protective gear shall be compatible with the propellants involved, fire  resistant, and non -static producing.
+   If the protective gear has limitations, these limitations and subsequent  protective actions shall be identified in the operating procedure.
+   SCAPE, Category I or IV shall be used for propellant flow and  pressurization during the following operations:   11.
+ (ER Only) Personnel using  Category I SCAPE suits shall observe a 60 -minute rest period between consecutive  SCAPE operations: for example, no dou ble-packing.
+   For physiological purposes, the maximum operating time in a Category IV  or VI SCAPE suit shall not exceed 4 hours at one time.
+ Splash suits, with self -contained breathing apparatus, shall only be  used with  systems that contain residual vapors and only after Range Safety approval.
+ If any  liquid is in the system, splash suits shall not be used.
+   Removal of full protective gear after system integrity verification shall  require Pad Safety approval.
+   Emergency protective gear shall be available throughout operations to the  crew and other personnel who might be affected in the event of a spill.
+   The following non -liquid operations shall require splash suits:   11.
+   All personnel performing  liquid oxygen and liquid hydrogen transfer  operations, repairs, or adjustments to the system shall wear flame -resistant treated, non - static producing overalls of liquid resistant material, cryogenic service gloves, hoods  or face shields, and non -absorbent  shoes approved by Range Safety.
+   Personnel performing operations on other cryogenic systems shall be  similarly protected, except that flame -resistant treating of coveralls is not required for  non-flammable commodities.
+ Hydrogen peroxide transfers shall require  the use of boots, gloves, and face shields of material approved by Range Safety.
+   Procedures shall be prepared governing the safe operation, testing, maintenance, and  installation of pressurized systems by the agency performing the specific task.
+   Procedures shall be developed for all operations involving propellants and the  checkout of propulsion systems.
+   Off-loading procedures for payloads and launch vehicles shall be made available at  any time propellant is loaded in flight hardware.
+ The off -loading procedures shall include integration of the  following:   11.
+   Pressure systems shall be initially tested IAW the applicable requirements of  SSCMAN 91 -710 Volume 3 (Chapter  11 or Chapter  12).
+   Any system that has been opened shall be leak tested at 100% maximum  operating pressure (MOP) with an inert medium.
+   Pressure rel ief valves and flex hoses shall be retested within one year of intended  use.
+   Pressure gauges and transducers shall be calibrated annually.
+   Any component that has been damaged, potentially damaged, repaired, replaced,  or modified shall be proof tested IAW the applicable requirements of SSCMAN 91 -710  Volume 3.
+   After the component proof test, the system or subsystem shall be proof tested,  functionally tested, and leak tested.
+ The determination for system proof testing shall be  made on a case -by-case basis.
+   New, modified, or repaired propellant systems shall be tested IAW the applicable  requirements of SSCMAN 91 -710 Volume 3 (Chapter  11 or Chapter  12).
+   A log shall be kept on propellant systems to keep track of use, maintenance,  modification, testing, and inspection.
+   Before use and each operation, facilities and equipment shall be inspected by  Range Users and Pad Safety to ensure a safe configuration for the facilities, equipment,  and propellants involved.
+   Propellant transfer and st orage areas shall be spot checked by Pad Safety, Range  Safety, the Fire Department, and Environmental Health.
+ The appropriate area supervisor  shall be advised of any discrepancies noted.
+   Periodic in -service inspections shall be performed on all hazardous ground  pressure systems, at least annually, IAW applicable procedures by a Level II Inspector or  above, qualified and certified in accordance with the American Society of Non -Destructive SSCMAN91 -710V6  27 DECEMBER 2022  57  Testing, Non -Destructive Testing Recommended Practice, SNT -TC-1A, or under a Range  Safety approved equivalent.
+   Hazardous ground pressure systems shall be maintained and periodically  inspected IAW the ISI Plan.
+ Unacceptable findings from the performance of periodic  inspections shall be resolved with Rang e Safety participation.
+ These inspections shall be  performed during the following periods:   11.
+   The hazardous pressure system operator shall retain all documentation  generated as a result of the recertification effort and place this documentation in the  system ISI certification and recertification file.
+  Before replacement, storage, or repair of hypergolic or toxic system components,  the system shall be purged and flushed of all residual contaminants.
+ System connections  and removed components shall be appropriately capped, bagged, and labeled before   moving the component.
+   A record shall be kept on the certification of system and component cleanliness.
+   When it is necessary to remove flight hardware components from the system, all  broken connections shall be bagged and tagged to pr event moisture or particle  contamination from outside sources.
+   If DOT vessels are used in portable GSE, maintenance and operating procedures  for periodic hydrostatic tests shall be in accordance with DOT regulations.
+   All maintenance p rocedures and training shall ensure that personnel performing  visual inspections or other checks shall not walk in front of any National Pipe Thread  (NPT) -connected components, but shall inspect/observe the NPT connections from a side  position to prevent e xposure to possible high pressure projectiles.
+   All rupture discs installed in hazardous fluid systems shall be replaced every two  years.
+ Tests performed shall meet the applicable requirements as  outlined in SSCMA N 91 -710 Volume 3 (Chapter  11 and Chapter  12).
+   Uninstalled flexible hoses shall be hydrostatically proof tested to 1.
+ Installed flexible hoses in functional use shall be 58 SSCMAN91 -710V6  27 DECEMBER 2022   hydrostatically tested to 1.
+   All permanently installed flexible hoses shall be visually inspected over  their entire length at least annually for dam aged fittings, broken braid, kinks, flattened  areas, or other evidence of degradation.
+   Pressure gauges and transducers shall be calibrated within one year before  use.
+ Pressure gauges and transducers in functional use shall be calibrated once a  year.
+   Pressure relief valves shall be tested for proper setting and operation once  a year.
+ Tests performed shall meet  the applicable requirements as outlined in SSCMAN 91 -710 Volume 3  (Chapter  11 and  Chapter  12).
+   After test and inspection, pressure system components shall be tagged.
+   Tags shall provide the date of the last inspection and proof -load test and  the component MAW P.
+   An engineering analysis for ground support pressure system recertification  shall be performed in accordance with SSCMAN 91 -710 Volume 3, paragraph 11.
+   Vessels and packaging designed to 49 CFR specifications shall be retested  to DOT require ments.
+   All systems shall be hydrostatically tested at ambient temperatures to 150%  of the system MOP.
+   Vessels designed to ASME Boiler and Pressure Vessel Code, Section VIII,  Division 2 that are prohibited from hydrostatic testing to 150% of the MOP shall be  hydrostatically tested to 125% of system MOP at a minimum.
+   Cryogenic systems shall be retested in accordance with the applicable  requirements of SSCMAN 91 -710 Volume 3 (Chapter  11 and Chapter  12).
+   100% visual inspection of all joints and connections shall be performed  before and after hydrostatic or pneumatic pressure tests.
+ Parts that indicate a change in  volume, permanent deformation, leakages, or cracks shall be rejected.
+   Visual inspectio n of the external surfaces of a vessel and the internal  surfaces for vessels shall be performed to the maximum extent possible.
+   Any sign of corrosion, dents, or other damages shall be identified and  annotated on permanently maintained recert ification documents.
+   For corroded areas, the corrosion shall be removed.
+   Using ultrasonic testing (UT), the entire surface area affected by  corrosion shall be measured and the remaining wall thickness determined.
+   Wall areas that are below the minimum required thickness and other  unacceptable findings shall be fix ed before placing the system back into service.
+   All weld joints on vessels and systems with pressure greater th an 500 psig  or containing a hazardous fluid shall be 100% volumetrically and surface inspected.
+   Radiographic examination shall be used to the maximum extent  possible.
+   UT shall be used if radiographic testing (RT) is determined  to be  ineffective.
+   Surface and volumetric testing shall be performed after the  hydrostatic/pneumatic pressure test only.
+   All components and systems shall be leak checked and functionally tested.
+   Leaks shall be rep aired and components that do not function properly shall  be repaired or replaced before starting the subsequent recertification period.
+   The recertification period for vessels and systems shall not exceed the shortest  period resulting from or determined by the following criteria:   11.
+   The shortest service life shall be determi ned based on the system and  components design performance parameters, operational requirements, and inspection  and test results.
+   Recertification of cryogenic vessels shall be accomplished at a minimum  of every 20 years with an internal inspection every 10 years.
+   The determination of recertification intervals using alternative  methods shall identify all credible failure mechanisms and associ ated risks, and  define appropriate inspections, tests, and analyses to address the mitigation of  pressure vessel failure.
+   Implementation of a risk -based method approach shall include  justification for any deviations from paragraph  11.
+   All fixed hazardous pressure vessels shall also be recertified when one or more  of the following changes or conditions occur:   11.
+   Portable or mobile vessels and packaging used for transportation of pressurized  or hazardous commodities shall be designed, maintained, and recertified in accordance  with 49 CFR.
+ If a DOT vessel is installed on a permanent basis, it shall fall under the  recertification requirement for a fixed system.
+   Recertification data shall be submitted as part of the MSPSP as required in  SSCM AN 91 -710 Volume 3 (Chapter  11 and Chapter  12).
+   Documentation shall be maintained in accordance with ESMC TR -88-01.
+   Certification files shall be maintained and updated by the hazardous  pressure system operator.
+ These files shall b e located at the Range User facility at the  ranges.
+   Certific ation files shall be updated within 90 calendar days of completion  of periodic inspections and tests.
+   Updated information shall include any changes to the current certification  files and the following:   11.
+ Only pressure systems approved by Range Safety  shall be used.
+   Warning signs shall be posted to keep personnel out of areas where  pressurization is taking place.
+   High and ultra -high pressure systems (systems equal to or greater than  3,000 psig) shall be marked with danger  signs indicating the maximum pressure that  could be involved.
+   Pressure relief valves that present a noise hazard on activation shall be  marked with danger signs.
+   Suitable barriers shall be used to protect personnel.
+ The Range User and  Range Safety shall determine the adequacy of the blast shield for the pressure and  volume of the system.
+   Pressure systems shall be inspected upon arrival on the ranges or before  first operation.
+   Where there is evidence that systems have been damaged or  overstressed, replacement or, at a mi nimum, remote initial pressurization shall be  required.
+   Range Users who do not perform initial pressurization remotely shall  certify to Range Safety that no evidence of damage or overstress exists.
+   A system and/or facility check  shall be made before the start of the  pressurization operation.
+   During dynamic pressurization of flight pressure vessels/tanks, personnel  shall not be exposed any time vessel/tank pressure exceeds 50% of the vessel/tank’s  design burst rating.
+   If a leak occurs during pressurization, the sys tem and/or subsystem shall be  depressurized before adjusting any fittings.
+   Flexible hose shall be secured along its length at 6 -foot intervals.
+   Bolts and fittings shall not be loosened or torqued while the system is under  pressure .
+   Any system that requires devices such as pressure regulators, pressure - reducing valves, safety valves, or pressure relief valves shall not be activated unless the  devices are in place and in operable condition.
+ Only qualified and authorized personnel  shall change the setting of these valves and regulators.
+   Flight hardware pressure vessels that exhibit a brittle fracture or  hazardous leak -before -burst (LBB) failure mode shall maintain a minimum safety  factor of 1.
+   Flight hardware pressure vessels that have a non -hazardous LBB failure  mode shall maintain a minimum safety factor of 1.
+   The steps listed below shall be followed:   11.
+   A minimum of 2 block valves shall be closed between the  portion of the system to be opened and the source of pressure.
+   The section of line to be opened and the section between the  block valves in series shall be vented (depressurized) to a tmospheric pressure  before the start of work and remain vented (depressurized) during all phases of  work.
+   Whenever operations permit, the entire system shall be  depressurized before a portion of the system is isolated, vented, and opened.
+   Venting a pressure system shall be accomplished through vent  valves.
+ Regardless of pressure, venting shall never be accomplished by  loosening or removing a fitting.
+   Lockout devices and warning tags shall be attached to the   valves that are isolating the area where system entry will be made.
+   The isolated area shall be verified as being depressurized before  opening.
+   Whenever a depressurized section of a  pressurized facility system is  to be entered, it is considered open system work and the following precautions shall  be observed:   11.
+   Personn el limits shall be established in a Range Safety approved  procedure.
+   When it is necessary to remove components from the system, due care  shall be exercised to prevent moisture or particle contamination from outside  sources.
+   Lockout devices and tagging shall be used to ensure systems or  subsystems are not oper ated while work is being performed on the system.
+   Valves shall be rendered inoperative with a lockout device  compatible with  the valve material and the lockout devices shall be approved  by Range Safety.
+   The following criteria shall be observed when removing locks and  tags and returning the system to service:   11.
+   Lockout devices used to render a valve inoperative shall be  removed only by an authorized work crew after all work ha s been accomplished  and, when applicable, approved by the proper authority.
+   Tags shall be removed only by the crew placing the tag.
+   Removed tags shall be returned to the crew office and mated  with the tear off portion of t he tag.
+   Both tag and tear off portion shall be filed or disposed of IAW  current practice.
+ In addition to the requirements noted  above, the following requirements shall be adhered to w hen operating, testing, and maintaining  pressure systems containing liquid propellants.
+   The Fire Department shall be notified of the presence of prop ellants in any  facility as well as any specific firefighting and spill handling support requirements.
+   Flight propulsion systems and/or propellant tanks and their associated  propellant loading system (including portable vessels and units) shall be commonly  bonded and grounded during propellant transfer operations.
+   Vapor mon itoring equipment shall be used for leak (sniff) checks and  general atmosphere monitoring to determine the necessity for PPE.
+ Vapor monitoring  equipment shall be approved by Range Safety and is subject to approval by  Bioenvironmental Engineering.
+  A toxic vapor check shall be conducted by the operations control authority  when personnel are in a facility that has toxic propellants contained in flight hardware  and GSE at the start of each 8 -hour shift and before entering a facility in which toxic  propellant has been left unattended for 8 hours or more.
+   In locations where liquid propellants will be handled, water shall be  available in the area in sufficient quantities for fire, spill, and medical use.
+ Skin or eye  contact with toxic prop ellants shall be flushed with copious amounts of water.
+  Appropriate medical attention shall be sought after flushing.
+   The supervisor shall notify Rang e Safety and Bioenvironmental  Engineering of any injury involving toxic or non -toxic propellants.
+   Transport of more than 5 gallons of hazardous commodities (to include  hypergolic propellants) in non -DOT approved containers shall require a Pad Safety,  Security or Hazardous Operations Support (HOS) escort as described in Chapter  16.
+   Range Safety approved procedures shall be used for all propellant  operations and the checkout of propulsion systems.
+   Before starting operations, the Range User and Pad Safety shall verify that  the facility, equipment, and personnel are ready by performing the following minimum  checks, incorporated into the approved operational procedures:   11.
+   As required by procedure, Pad Safety and other required support shall  be on hand before the conduct of operations.
+   Pad Safety concurrence to proceed shall be obtained before the  conduct of operations.
+   Personnel qualification and training shall be verified by the respective  supervisors.
+   Pad Safety shall inform the Test/Launc h Conductor that the appropriate  roadblocks have been established, the hazard area cleared, and propellant tanking can  begin.
+   Propellant transfer shall not start when the passage of an electrical storm is  imminent (as documented in range -speci fic lightning warning procedures).
+ A  propellant transfer operation already in progress shall be interrupted or expeditiously  concluded at the discretion of Pad Safety or the supervisor in charge of the operation.
+  The OSP for each launch vehicle or facility  shall detail the procedure for this situation.
+   Emergency protective equipment shall be provided, as required by Range  Safety.
+   The Range User shall provide the maximum source strength based on  quantity (gallon or pound) and surfac e area.
+ The worst -case credible spill (quantity)  shall be based on a failure analysis provided to Range Safety and 45 Weather Squadron  Range Weather Operations (ER) or 30 Weather Squadron (WR) before the operation.
+ SSCMAN91 -710V6  27 DECEMBER 2022  67  This information shall be used to determi ne the downwind sector that shall be  evacuated if a large spill occurs.
+   Where feasible, the Range User shall develop a means to minimize the  surface area of spills by providing a dike or other means of containment.
+   A localized safety clearance zone that limits personnel access to those  individuals directly involved with the operation and who have the proper protective  equipment shall be e stablished.
+   A larger safety clearance zone that limits personnel access to those  individuals directly or indirectly involved in the operation or mission shall be  established.
+ The determination of the larger safety clearance zone shall include  consideration of the avai lability of fencing and Security or HOS check points and the  trinitrotoluene (TNT) equivalency of the propellants involved.
+   The minimum downwind sector that must be immediately evacuated in the  event of a major spill shall be provided to all p ersonnel involved in the operation, and  controls shall be in place to implement the control of this sector.
+ The downwind sector  shall be defined in the OSP.
+   Portable vessels and systems containing incompatible fuels and oxidizers  shall not be brought into closer proximity than allowed for permanent systems unless  otherwise agreed to in advance by Range Safety.
+   Fire Protection and Environmental Hea lth shall be available as required by  procedure.
+   All persons and vehicles not absolutely essential to the operation shall be  evacuated.
+   Before opening a contaminated or toxic propellant system, the system shall  be flushed or purge d.
+   The handling and transfer of toxic materials and propellants shall be  monitored by Pad Safety to ensure the safety of personnel involved in the operation  and personnel downwind of the operation.
+   Vapor monitoring shall be continuous whenever pe rsonnel are in enclosed  areas having toxic propellants present.
+   In the case of a lightning warning (as documented in range -specific  lightning warning procedures), the system shall be secured; the complex, storage, or  operating area shall be cl eared; and the required actions called for in procedures and  OSPs shall be taken.
+   Reentry into the area of a launch vehicle and/or payload with fuel and  oxidizer aboard shall be held to a minimum and shall be subject to approval by Pad  Safety.
+   Reentry into the area of a launch vehicle and/or payload with only fuel  aboard shall also be held to a minimum and shall be subject to the approval of the task  or area supervisor.
+   Tanking of toxic or cryogenic liquids aboard a l aunch vehicle or payload  during launch countdown shall be performed as late as possible.
+ If tanking is required  during launch processing before the countdown, tanking shall be performed as late in  the processing as is practical.
+   The appropria te actions and evacuations shall take place in the event of  an emergency such as a propellant spill.
+   Cape Support (ER) and Range Safety (ER) or Range Scheduling (WR)  and Pad Safety (WR) shall be notified of any propellant mishap and incidents , including  near misses.
+   All releases of toxic vapors shall comply with the SLD IEMP, AFI 10 -2501, and  any SLD -specific supplements, instructions, or plans.
+   At the ER, any plans to vent toxic vapors shall require coordination with the Civil  Engineer – Environmental Flight, Bioenvironmental Engineering, and Environmental  Health and Range Safety approval.
+ At the WR, venting operations shall be conducted in  accordance with Space Launch Delta 30 Instructi on 91 -206 (SLD30I 91 -106), Toxic  Hazard Assessments , and the applicable facility or operations plan.
+   The actual venting operation shall not start without Pad Safety approval.
+   Venting restrictions and controls shall be identified in th e appropriate OSP or  operating procedure.
+   The operations control authority shall verify that Environmental Health is present  to verify concentration levels at the control area boundary.
+   The operations control authority shall verify that Security Forces or HOS  maintain the appropriate roadblocks.
+   Planned releases shall be IAW permits maintained by Civil Engineering.
+ Emergency decontamination  of facilities and personnel shall be accomplished under Pad Safety direction with  Environmental Health and the Fire Department performing the decontamination, if required.
+  Personnel treating or flushing major spills of toxic and  corrosive propellants shall wear the proper protective clothing and equipment.
+   Range Users and supporting agencies shall develop procedures for  handling major and minor leaks and spills.
+ CCSFS Cape Support (ER) or SLD  Command Post (WR) shall be notified of any spill or release of hazardous material.
+   Each area th at contains liquid propellants shall have a Range Safety  approved plan for evacuation based on spill size (quantity and surface area) and weather  factors.
+   The approved evacuation plan shall describe the localized safety  clearance zone, the g eneral support (larger) safety clearance zone, and the minimum  downwind sector to be evacuated in the case of a large spill.
+   The downwind sector shall be based on the following factors:   11.
+ The Range User shall determine a worst -case spill (quantity)  based on a failure analysis.
+   These procedures shall be IAW the applicable OSP and shall be submitted  to Range Safety for review and approval.
+   Procedures shall address the topics covered in paragraph  10.
+   Minor leaks or spills shall be cleaned up with absorbent material where  possible.
+   Pad Safety shall be notified of minor leaks and spills and subsequent  actions.
+   Major leaks or spills shall be handled according to the situation with the  objective of minimizing injury to p ersonnel and damage to facilities and equipment in  accordance with the SLD IEMP, AFI 10 -2501, and any SLD -specific supplements,  instructions, or plans.
+ If the requirements described below are in conflict with local  guidance, local guidance shall take prece dence.
+   The following actions shall be taken:   11.
+   Time and the situation permitting, the source of the propellant flow  and pressure source shall be shut down.
+   All personnel shall be evacuated out of the area including the  minimum downwind sector.
+ Travel shall be upwind or crosswind to the minimum  evacuation radius as defined in the Facility Operating Plan, Operations Safety and  Area Safety Plan, or the Range User emergency procedure, and away from the  downwind sector.
+   Injured or trapped personnel shall be rescued.
+ Appropriate PPE shall  be used.
+   Adjacent areas shall be alerted.
+   Personnel shall be available to direct emergency crews and to provide  information to assist them.
+   All personnel shall report to the supervisor at the designated assembly  point for head count.
+   Spills of cryogenic liquids shall be flushed with large amounts of water into  the surrounding ground surface or a holding basin.
+   Spills of toxic or corrosive propellant, or those that could affect the public  health or ecology, shall be flushed with water or another neutralizing agent into a  collecting tank to be disposed of IAW approved procedures.
+  Only COPVs that meet the applicable design, test, and inspection requirements described in  SSCMAN 91 -710 Volume 3 shall be operated on USSF ranges.
+  If COPVs that contain inert pressurants are in close proximity to propellant tanks,  the Range User shall provide test data proving that the composite overwrap is compatible  with the propellant in terms of strength degradation, flammability, and ignit ion/combustion  requirements, when personnel are at risk.
+ If this data is not available, the following actions  shall be accomplished:   11.
+   If the COPV is in a credible "drip zone", the COPV shall be protected with  a coating and/or covers and/or splash shields to guard against contact with potentially  incompatible liquids.
+   Hazardous vapor detectors shall be used to monitor the propellant tanks.
+   If COPVs will be pressurized to pressures greater than 1/3 of the COPV design  burst pressure on USSF ranges, the pressurization shall be performed remotely or a blast  shiel d shall be used to protect personnel.
+ If the vessel is to remain pressurized, personnel  access shall not be permitted for a minimum of 10 minutes after the pressurization is  completed.
+   Personnel limits for each operation on or near a pressurized  COPV/spacecraft  shall be established to minimize personnel exposure to pressurized COPVs.
+   The transport of pressurized COPVs shall only occur on Range Safety approved  routes that minimize personnel and facility exposure.
+ In addition, pressurize d COPV  transport shall utilize escorts and shall only occur during Range Safety approved and  designated time periods.
+   COPVS shall be protected from damage due to impacts during manufacturing,  handling, transportation, assembly, and integration o f COPVs into the Range User's  system(s).
+   Except for the pressure test requirements of SSCMAN 91 -710 Volume 3,  pressure testing of systems with COPVs shall not exceed the manufacturer MEOP pressure  limit without the manufacturer's approval and Ra nge Safety's agreement.
+   Range Users shall develop and provide to Range Safety Emergency Response  Plans (ERPs).
+ These ERPs shall include contingency safing and backout plans for COPVs  (taking into consideration leaks, impacts, and exposure to inc ompatible chemical agents).
+  If implemented, a real time assessment shall be accomplished and contingency operations  taken, as required.
+ The ERP shall be approved by the respective Range Chief of Safety.
+   The Range User shall provide the ERP to Range Safety at least 45 calendar  days prior to the start of hazardous operations involving COPVs.
+   The Range User shall obtain approval by the respective Range Chief of  Safety prior to the start of hazar dous operations.
+ All  pressure vessels and pressurized structures that require periodic refurbishment to meet safe - life requirements shall be recertified after each refurbishmen t by the same techniques and  procedures used in the initial certification, unless an alternative recertification plan has been  approved by the procuring agency and Range Safety.
+ Inspection data shall be periodically reviewed and assessed to evaluate  trends and anomalies associated with the inspection procedures, equipment and personnel,  material characteristics, fabrication processes, design concept, a nd structural configuration.
+ All repaired or refurbished hardware shall be recertified after each repair and  refurbishment by the applicable acceptance test proced ure for new hardware to verify their  structural integrity and to establish their suitability for continued service.
+   Inspection, maintenance, and ope ration records shall be kept and maintained  throughout the life of each pressure vessel and each pressurized structure.
+   At a minimum, the records shall contain the following information:   11.
+ The initial report that documented the  fracture mechanics safe -life analysis or safe -life testing shall be periodically revised and  updated during the life of the program.
+   Before the first pressurization of a COPV at the range, an inspection of the  vessel shall be conducted to determine if there is evidence of damage to the composite  shell.
+ The inspection shall be performed by a certified inspector (according to American  Society for Nondestructive Testing (ASNT) standards or a Range Safety approved  equivalent).
+ If this inspectio n is not possible at the launch base because the vessel is no  longer accessible, then it shall be conducted the last time the vessel is accessible for  inspection.
+   After arrival at the prelaunch processing facility and completion of the  inspecti on with no evidence of damage to the COPV, but prior to propellant loading or  pressurization, COPVs shall be pressure tested to 100% of the maximum ground operating  pressure.
+ The minimum hold time for this pressure test shall be 5 minutes.
+ This  pressurizat ion shall be conducted remotely or a blast shield shall be used to protect  personnel.
+ Pressure gauges and  transducers shall be periodically calibrated.
+ The initial report that documented the fracture mechanics safe -SSCMAN91 -710V6  27 DECEMBER 2022  73  life analysis (for metal liners only) or safe -life testing shall be periodically revised and updated  during the life of the program.
+ The initial report that documented the fracture mechanics safe - life analysis or safe -life testing shall be periodically revised and updated during the life of the  program.
+   All ordnance operations shall be covered by a Range Safety approved operating  procedure.
+   All Explosive Site Plan compensatory measures shall be implemented by  incorporation into procedures or other appropriate safety documentation.
+   All ordnance transportation, receipt, and storage shall be performed in  accordance with DESR 6055.
+   Over -the-road and rail shipments to and from the ranges shall comply with DOT  requirements.
+   To be acceptable for transportation by any mode, explosives shall have the  following items pr ovided to Range Safety and verified by the Range User before shipment:   13.
+ Launch vehicles, payloads, spacecraft, and vehicle  stages shall not be shipped to the ranges with ordnance such as EEDs installed unless prior  written approval has been obtained fr om Range Safety.
+ Shipments by commercial carrier to CCSFS  shall be coordinated with CCSFS Ordnance Services.
+ Shipments by commercial carrier to  VSFB shall be coordinated with 30th Logistics Readiness Squadron, Dis tribution Flight -  Cargo (30 LRS/LGRDDC).
+ All ordnance shipments including EEDs shall  be addressed as shown in Table  13.
+   The Range User shall notify Pad Safety of ordnance deliveries on CCSFS.
+   After receipt at Munitions Storage Area #2 at CCSFS, all ordnance transportation  shall be performed by CCSFS Ordnance Services unless specifically approved by Range  Safety.
+   As soon as possible after receipt, a receiving inspection shall be conducted by  Ordnan ce Services (ER) or 30 LRS (WR) and the Range User to ensure that no damage  has occurred during shipment.
+   Any shipment discrepancy or DOT violation shall be reported to Ordnance  Services (ER) or 30 LRS (WR) and Range Safety.
+   Ordnance and propellants shall be stored in facilities specifically designed for  that purpose and approved by Range Safety and/or the Department of Defense Explosive  Safety Board (DDESB).
+ Processing facilities shall not be used for the st orage of ordnance.
+   Range Users shall make arrangements to remove ordnance from the ranges when  it is no longer needed.
+   Range Users shall furnish instructions for the disposition of stored ordnance  items to the storage provider upon project termination or when ordnance items are no  longer required.
+   Personnel handling, installing, or electrically connecting ordnance or working  within 10 feet of exposed, solid propellant grain shall wear Range Safety approved, flame - retardant, non -static producing, long -sleeve, cuffless, full -body garments ( coveralls, not  smocks) with leg stats, or conductive shoes, and/or wrist stats.
+ If required, Range Users  shall submit a sample of the garment for testing.
+   Other persons who may come in contact with ordnance, test equipment when  ordnance is connected, or flight hardware when ordnance connections are not complete  shall wear the same coveralls and equipment as described above or as required in  procedures specif ic to the subject equipment and operations.
+   Sweaters and jackets shall not be worn as outer garments overprotective  coveralls.
+   More stringent controls shall be used when necessary to enforce Range Safety  requirements.
+ Cotton garments meeting the Range  Safety flame retardant requirements  should meet the requirements of MIL -C-43122G, Cloth, Sateen, Cotton, Flame Retardant  Treated:  "finished cloth shall have an average time of after -flame of not more than 2.
+   Materials prone to electrostatic charge buildup shall not be used in the vicinity  of ordnan ce and propellants.
+   Compliance with the restriction on static -producing materials is handled on a  case-by-case basis; however, the following criteria shall serve as a guideline:   13.
+   Static -producing materials shall not come into contact  with a system having  an installed EED or other ordnance.
+   Static -producing materials shall not come within 10 feet of exposed solid  propellant grain; for example, no nozzle plug or cover.
+ Static ground points in all ordnance and  propellant operating and storage facilities shall be tested accor ding to paragraph  14.
+   Ordnance associated equipment s uch as handling fixtures and missile  structures shall be connected to a common ground to ensure that an electrostatic charge  cannot build up to levels that can cause ignition of the ordnance.
+   Platforms and ladders shall be grounded when used i n conjunction with  vehicles and/or payloads containing ordnance.
+ Conductive mats that are grounded to the service tower ground shall be used if  proper groun ds cannot be achieved by other means.
+ Wrists stats shall be required if  proper grounding cannot be attained.
+   Grounding system, megger high -voltage checks shall not be performed  after initiators are installed or electrically connected unless pr oper fault protection is  provided, as approved by Range Safety.
+   When leg stats or conductive shoes are required, grounding of personnel  shall be verified using a conductive shoe tester before the start of an ordnance  operation.
+ Leg stat or conductive shoe resistance shall not exceed 1 megohm.
+   When wrist stats are required, grounding of personnel shall be checked with  an ohmmeter.
+   To ensure grounding of personnel, conductive floors shall be verified in all  ordnance and propellant operating facilities before operations.
+   Conductive floors and terminals shall be verified to be electrically bonded  to a grounding system comm on to the ordnance device before operations.
+   Static ground points shall be tested in accordance with AFMAN 32 -1065,  Grounding & Electrical Systems .
+   When hoisting ordnance systems with a crane, a trailing ground connection  to the facility ground shall be maintained during the hoist.
+   Metal shi pping containers shall be grounded before opening the containers.
+   Before removing an ordnance item from a shipping container, the specific  ordnance item shall be grounded.
+   When hoisting ordnance with a crane, the ordnance and/or c ontainer and  the hook shall be commonly grounded before connecting the hook to the ordnance  and/or container.
+   Ordnance operations shall be conducted in accordance with DESR 6055.
+   All new or modified explosives and propellant facilities shall  be inspected and  approved by Range Safety before first use.
+   Range users shall support an annual explosive safety inspection by Range Safety  to determine compliance with explosives safety criteria as defined in this publication, other  DoD and DA F standards (for example, DESR 6055.
+   The annual inspection shall include, but not be limited to, the following  explosives storage and operating areas:   13.
+   The results of the annual explosives safety inspection shall be reported under the  provisions of ESP 1.
+   Ordnance facilities shall be inspected monthly by the facility manager.
+   All hazardous ordnance operations on the ranges shall be monitored and  approved by Pad Safety.
+4S ordnance and ordnance systems are not  required to meet the design requirements of SSCMAN 91 -710 Volume 3, Chapter 13;  however, all ordnance and ordnance systems shall comply with the operations requirements  of this volume.
+   Testing of any ordnance circuit or device that could result in personnel injury or  death (if the ordnance should fire) shall be conducted with no personnel exposed (remotely,  in a test cell, or behind a barricade or shield).
+   Ordnance electrical continuity and resistance checkout shall not be conducted at  a launch complex or vehicle or payload assembly area without the written approval of  Range Safety.
+   All test equipment used on the ranges to check out ordnance shall be approved  by Range Safety before use.
+ A list of currently approved instruments shall be maintained  by Range Safety.
+ Applied current shall not exceed 10% of the no -fire current of any EED  in the  circuit, or 50 mA, whichever is less.
+   No current, voltage, power, energy, or other type of energy source shall be  applied to any ordnance device outside of an approved test facility or with personnel in the  immediate vicinity of the ordnance de vice except under the following conditions:   13.
+ Where practical,  the RF control area shall include the entire facility and/or complex.
+   Range Safety, with the assistance of the appropriate Range User, shall provide  the Explosive Ordnance Disposal (EOD) team with familiarization training on the launch  vehicle and/ or payload ordnance systems up on request.
+ Additionally, Range Users shall provide 8 x 10 inch  color photographs of all or dnance items.
+   For each electrically initiated ordnance device installed  on the vehicle and/or  payload, the following tools and equipment shall be supplied to EOD in the event of a  malfunction that requires render -safe actions or a mishap recovery effort:   13.
+   Periodic testing of ordnance to verify no sensitivity changes have occurred shall  be done, unless it can be shown that the sensitivi ty with aging is not a credible concern  with the specific explosive composition.
+ Before giving concurrence for any ordnance  operations to begin, Pad Safety an d the Range User shall ensure the following:   13.
+   The pre -installation checkout of all ordnance items shall b e performed only  at Range Safety approved test facilities.
+   Requests to use alternate facilities shall be submitted in writing to Range  Safety.
+   Before any ordnance electrical connection, no vo ltage (stray voltage)  checks shall be performed on all launch vehicle and payload ordnance electrical  connectors.
+   These checks shall be made first with power on, then with power off, and  include all pin -to-pin and pin -to-case combinations.
+   The power on check shall be performed anytime in the launch.
+   Power off checks shall be made immediately before ordnance electrical  connection.
+   If a number of connections must be made in the same general area of the  launch vehicle and payload, power off checks shall be made on all of the connectors  before ordnance electrical connection.
+ These connections shall be made before any  electrical configuration or system changes such as bringing power back up occu r.
+   Shielding caps shall not be removed from EEDs until electrical connection  to the ordnance is to be made.
+   The resulting measured signal (current, voltage, power, energy) from a no  voltage check shall not be capable of producing a current greater than 20 dB below the  no-fire current of the EED.
+ The no voltage test procedure shall specify the maximum  acceptable reading.
+   Meters that are used for no voltage checks shall have a valid calibration  seal.
+   The i ntegrity of the meter and test leads shall be verified before use.
+  Fixed - or facility -test instrumentation that is used in place of portable GSE shall have  a procedure that verifies the integrity of the system.
+ A copy of the completed procedure  shall be pr ovided to Pad Safety.
+   Ordnance operations shall not be conducted when the relative humidity is less  than 35%.
+   Ordnance operations shall be conducted in facilities and/or locations in  compliance with DESR 6055.
+ Such approvals shall be accomplished by explosives site  plans or facility licenses.
+ Range Safety shall determine the appropriate approval.
+   At the ER, ordnance items shall not be handled, installed, or electrically  connected when the passage of an electrical storm is imminent (within 5 nautical miles).
+1 shall be followed.
+   Ordnance items, particularly initiators, shall be installed and electrically  connected as late in processing flow as practical.
+   A rotation test shall be performed on all launch vehicle and/or payload safe and  arm (S&A) electro/mechanical devices  after installation and erection on the launch pad but  before final connection to the ordnance train.
+ This test shall be performed using the launch  day system configuration for cycling the S&A.
+   The ordnance train shall be disconnected from the electro/mechanical S&A  output during all checkout operations except during the following circumstances:   13.
+   When the electro/mechanical S&A is rotated on the pad, all personnel shall be  cleared to an area designated in the OSP.
+   The ordnance train shall be disconnected from the ESAD output during all  checkout operations, except during final arm on the last day of the count.
+   When the ESAD is armed on the pad, all personnel shall be cleared to an area  designated in the OSP.
+   Electromagnetic interference (EMI) testing shall not be conducted with  initiators installed on the vehicle or payload without Range Safety appro val.
+   For unlimited personnel exposure during LIO tests, the sy stem shall contain  three independent verifiable circuit inhibits (dual -fault tolerance).
+   For essential personnel exposure during LIO tests, the system shall contain  two independent circuit inhibits (single -fault tolerance).
+   For no  personnel exposure during LIO tests, the system shall contain one  circuit inhibit.
+   One inhibit shall be a disconnection of the ordnance train at the LIO or the  destruct charge/solid rocket motor igniter (other ordnance end item).
+ All damaged ordnance shall be rendered safe by the  installation EOD Team unless otherwise approved by Range Safety.
+   Shipments of damaged or rendered safe ordnance from the ranges or the  downrange stations shall be approved in writing by Range Safety.
+   This approval and/or certification shall accompany the shipment.
+   A DOT exception shall norm ally be obtained by the Range User before AF EOD  will release damaged ordnance.
+   Ordnance items shall not be delivered to, placed in, or processed through facilities or  locations on the ranges, or downrange st ations unless the facility or area has been approved for  such operations by Range Safety.
+   Hazardous ordnance deliveries from storage to the Range User shall be coordinated  with Range Safety.
+   All facilities in which ordnance operations are  conducted or stored shall be properly  equipped, display the correct explosive safety markings, and otherwise meet the minimum  explosives safety standards cited in DESR 6055.
+   ANSI C2, National Electric Safety Code , shall be followed in the conduct of  electrical systems operations and maintenance.
+   Workplace electrical safety shall be in accordance with NFPA 70E, Electrical  Safety Requirements for Employee Workplaces , AFMAN 32 -1065, Grounding &  Electrical Systems , and DAFMAN 91 -203 (Chapter 8, Electrical Safety) , 29 CFR  1910.
+   Maintenance of AF -owned electric power systems shall be in accordance with  DAFMAN 32 -1062, Electrical Systems, Power Plants and Generators .
+ Non -AF-owned  electric power systems shall be maintained per relevant provisions found in 40 CFR, 29  CFR, National Electrical Code (NEC), NFPA, etc.
+   Maintenance of grounding systems for AF facilities or facilities regulated by the  DDESB shall be in accordance with AFMAN 32 -1065.
+ Maintenance of grounding systems  for non -AF facilities shall be IAW relevant provisions found in 7 CFR, 14 CFR, 29 CFR,  NEC, NFPA, etc.
+ These requirements shall be followed unless less stringent  classifications are justified and approved as part of the design data submittal process.
+  Range Safety and the Fire Marshal shall approve all potential critical facility hazardous  location designations.
+ For these types of locations, fixed or permanently installed el ectrical  equipment shall be designed for the worst -case hazardous environment.
+   Portable electrical equipment shall be designed for the worst -case  hazardous environment in which it will be used.
+ The quantity of fluids used in the analysis to determine vapor  concentration shall be the maximum amount allowed in the explosives site plan.
+   These fuels shall be considered ignitable regardless of the ambient  temperature.
+   The following fuels shall be categorized as follows:   14.
+ The atmosphere within 10  feet horizontally and directly overhead of exposed solid propellant shall be  classified as a Class I, Division 2 location.
+   Manual (with a photographer) photography shall not be allowed in a  hazardous (Class I, Division 1) environment.
+   Only remotely operated, hazard -proofed cameras, e quipment and UL listed  lighting sources shall be used in a Class I, Division 1 or Division 2 environment.
+   Before and during the use of portable battery -operated electrical equipment  within 100 feet of a fligh t vehicle propellant system or within 25 feet of propellant  storage vessels, the operating environment of the photography equipment shall be  verified to be free of hazardous vapors.
+   Before bringing portable battery -operated electrical equipmen t into an area,  all ordnance installation and/ or connection operations and liquid propellant system  operations that affect propellant systems within 100 feet of the equipment shall cease.
+ The details of  the method of compliance shall be included in a safety assessment report.
+   Battery replacement shall occur outside the area.
+   Heat -producing, expendable flash bulbs such as flash cubes and sunguns  shall not be used with photography equipment.
+   The maximum operating temperature of the portable b attery -operated  electrical equipment shall not exceed 80% of the ignition temperature for any vapor  that may occur in the operating environment of the equipment.
+   Cameras and/or flash attachments to be used inside solid rocket motor  bores shall  be designed and specified for that particular use.
+   Portable battery -operated electrical equipment shall not be stored in the  Class I, Division 2 area.
+   Portable battery -operated electrical equipment shall be removed from the  Class  I, Division 2 area before any operation that could cause an increase in the  hazardous environment.
+   Grounding system tests for lightning protection, electrical fault protection,  and static protection systems shall be performed for all facilities and/or locations  (including launch complexes and integrated rocket checkout  facilities) used to store,  handle, or process ordnance or liquid propellants.
+   Facility operators and Range Users shall inspect their portable and movable  equipment connections to ground before starting operations each day the equipment is  to be used.
+   A floor plan layout showing all grounding system test points shall be  developed by the facility operator and/or the Range User.
+   Lightning and grounding systems shall be tested in accordance with  AFMAN 32 -1065.
+   Test and inspection re sults shall be provided to the facility custodian and  be available at the facility.
+ Before first use or first use after repair, electrical  distribution equipment shall be inspected for compliance with NFPA 70 and N FPA 70E.
+   Electrical equipment shall be maintained in accordance with maintenance plans,  manufacturer’s directions, reliability centered maintenance strategies, applicable safety  codes, etc.
+   Conductors with worn, abraded, or defective insulating material shall be repaired  or replaced before the circuit being energized.
+   Electric motors shall be properly maintained, and excess dust and oil shall be  removed from motors by va cuum cleaning or wiping.
+   Electrical system interior inspection and testing of wiring, power circuit  breakers, and protective relaying shall be accomplished in accordance with the NEC.
+   Personnel working with electrical equipment shall comply with NFPA 70E and  AFMAN 32 -1065, as applicable.
+ Particular attention shall be given to the following:   14.
+   Personnel working with high voltag e equipment shall wear appropriate non - conductive PPE.
+   Supervisors shall be responsible for ensuring that safe working conditions are  provided; the work is done in a safe manner; and frequent inspections of equipment,  materials, and the work sit e are conducted.
+   Whenever maintenance or repair work is performed on potentially hazardous  energized electrical equipment or circuits, a minimum of two people shall be present  (buddy system).
+   Rescue and first aid equipment shall be re adily available in areas where electrical  maintenance and repair work is being performed.
+   Personnel exposed to energized electrical circuits shall not wear loose clothing,  rings, watches, or other metallic objects that can act as conductors of e lectricity.
+   Only listed explosion and/or hazard -proofed test and maintenance equipment  shall be used in pote ntially hazardous atmospheres, unless otherwise approved on a case - by-case basis by Range Safety and documented in a safety assessment report.
+   Before working on capacitor circuitry, external power and short terminals shall  be disconnected and di scharged to ground.
+   If temporary power lines are required to extend across outside work areas, they  shall be protected by a non -conductive cover or elevated so as not to interfere with  personnel, vehicles, or equipment traffic.
+   Elect rical equipment cords shall have an equipment grounding conductor and  shall be grounded when in use.
+ Unless double insulated, the equipment exterior shall be  securely bonded and grounded.
+   Dead -end wires shall be completely insulated.
+   Electrical conductors shall be routed to eliminate tripping hazards or contact  with energized lines.
+   During repair or maintenance, if panel covers are removed and panels left open  to obtain power where none is available, a DANGER HIGH VOLTAGE  sign shall be  placed next to the open panel and a temporary cover manufactured and installed.
+ When  cable connections are made that require the removal of the panel cover, a suitable  temporary cover with openings to accommodate the temporary cables shall b e used.
+   Insulated fuse pullers shall be used for removal of fuses.
+ Only fuses of proper  rating shall be used in circuits.
+ No other material shall be used in place of a fuse.
+   Personnel who are exposed to energized circuits for electr ical activities such as  troubleshooting, maintaining, or repairing electrical equipment energized with 50 volts or  more shall stand on non -conductive matting.
+   Grounding or shorting sticks (or cables) shall be used on potentially hazardous  “hot”  circuits intending to be de -energized and shall not be removed until repairs are  completed.
+   An approved means of disposal or transp ortation to an off -site approved disposal  site shall be in place before receipt of the batteries on the ranges.
+   The means of disposal shall be in accordance with DOT and EPA requirements  and carry DOT and EPA approvals.
+ A training program shall be  generated and approved by the Range User for all personnel handling batteries not listed  or not intended for public use.
+   An emergency eye wash and shower shall be provided in locations  where batteries (excluding primary and maintenance -free batteries) are charged and  maintained.
+ They shall be ins talled in accordance with DAFMAN 91 -203,  ANSI/International Safety Equipment Association (ISEA) Z358.
+   An emergency first aid kit, containing a burn neutralize r shall be  provided.
+   When servicing or handling batteries containing injurious corrosive  materials, PPE shall be provided in accordance with the battery safety data sheet  (SDS), DAFMAN 91 -203, or ANSI/ISEA Z87.
+   In addition, electrolyte/chemical spill containment/adsorption  material shall be provided in the close vicinity of the battery(s) for use by operating  personnel in the event of an electrolyte spill.
+   Procedures for battery receipt, transportation, checkout, handling, installation,  safing, packing, storage, and disposal shall be developed and submitted to Range Safety  for review and approval.
+   Specific safing operations of batteries shall be in battery handling and checkout  procedures.
+   Battery handling and checkout procedures shall include the following topics:   14.
+   Range Safety shall approve temporary lithium battery storage and handling  facilities.
+ These facilities shall be used only for lithium batteries and shall not be used for  other purposes.
+ Lithium batteries shall not b e stored permanently on the ranges.
+   The Range User shall provide certification of lithium battery(s) conforming to  all safety critical steps and processes agreed to by Range Safety during the battery  development phase.
+   Before delivery  of lithium batteries to the ranges, an approved off -site disposal  contract shall be in place for the batteries in any condition.
+   Storage of the batteries (when not installed in GSE or the spacecraft) shall be in  approved battery storage locations.
+   Battery and cells shall be treated as always having a voltage potential; therefore,  connection or disconnection of a battery shall be considered an electrical personnel hazard  and a ‘sp ark’ potential.
+   Range users shall have an operational plan for battery/cell handling that includes  emergency contingency operations for physical abuse incident and battery  installation/removal.
+ Verification shall include inducing  overvoltage/undervoltage/temperature extremes to the mon itoring devices as intended  when in use prior to connecting of the battery.
+  Evidence of compliance with DOT requirements for transportation shall be provided.
+   External heating sources for battery/cell maintenance shall be dual fault tolerant  and provide feedback monitoring capability or be analyzed for failure modes on cell/battery  heating.
+4 volts) and discharging (driving cells to less than 0 volts) shall be dual  fault tolerant.
+ The GSE shall provide at a minimum  one inhibit for charging/discharging control.
+   Discharging shall not take place below -20° C or above 60° C.
+   Voltages shall be recorded at least every minute for charge rates that exceed  the battery capacity (e.
+   Charging data shall be reviewed for anomalies and verification of voltage  limits.
+   Provisions shall be made for charging, monitoring, and recording each  cell/cell pack with electronic ground support equipment that prevents high hea t,  sparking and high charge/discharge current rates.
+   Rechargeable storage batteries and batteries requiring activation at the ranges  shall be handled only in Range Safety approved areas.
+   Separate areas shall be provided for servicing of batteries that have incompatible  electrolytic solutions, e.
+   Motor vehicles that  do not meet DOT public transportation requirements shall not be  permitted to transport hazardous materials on the range unless the vehicle is covered by a  formal DOT exemption and is approved by Range Safety.
+   Special -purpose trailers for range us e only shall conform to operational requirements  in DESR 6055.
+   All vehicle operations shall comply with federal and state laws, and Air Force and  range regulations, including, but not limited to, the following crit eria:  15.
+   When backing, chocks shall be u sed to prevent contact.
+ Gasoline or diesel vehicle operations in AF facilities or where  government personnel may be exposed shall require the approval of the installation  Bioenvironmental Engineer.
+   Vehicle parking in areas sited and used for ordnance or propellants shall be  IAW the applicable OSP.
+   These OSPs shall be developed using the criteria found in this document   and shall also take into consideration the criteria from DESR 6055.
+   Designated parking areas shall be used.
+   Privately owned vehicles shall not be parked within the fenced -in area of  hazardous processing facilities.
+   No vehicle shall be parked within 25 feet of lines containing liquid  propellants.
+   No vehicle shall be parked within 50 feet of storage tanks containing liquid  propellants.
+   When required, delivery vehicles are exempt from the preceding  requirements during loading and off -loading but they shall be removed immediately  afterwar ds.
+   While parked, the parking brake shall be engaged and wheels shall be  chocked if the vehicle could inadvertently roll and cause damage.
+ Motor vehicles or equipment having internal  combustion engines shall be equipped with spark arresters and carburetor flame arresters as  applicable:   15.
+ Vehicles transporting   hazardous commodities shall meet DOT and DoD regulations (for example, DESR 6055.
+ Vehicles shall not be operated in locations c lassified  as hazardous by NEC Article 500 without Range Safety approval.
+ A periodic road/load test at 100% rated load shall be performed at least  every 4 years on trailers used to transport hazardous hardware, with single failure point (SFP)  weld inspection limited to surface NDE.
+ Unless otherwise agreed to by Range Safety, a  road/load test shall also be performed after a trailer has experienced structura l modification or  repair.
+ Recurring data requirements shall be submitted in accordance  with SSCMAN 91 -710 Volume 3, Attachment 2.
+ Maintenance records shall be maintained by  the operator and made available upon request.
+ Convoy operations shall be conducted in accordance with federal,  state, and any SLD -specific regulatio ns or policy memorandums.
+   AF personnel operating government motor vehicles as part of a convoy shall comply  with the requirements in AFMAN 24 -306, Operation of AF Government Motor Vehicles .
+   A procedure for hazardous convoy operations shall be  submitted to Range Safety for review and approval.
+   The Range User and/or the agencies responsible for  the transportation of a hazardous load shall ensure the following items are performed:   16.
+   The hazardous load to be transported shall be identified.
+   The convoy shall be scheduled through CCSFS Cape Support at the ER and throug h  Range Scheduling at the WR.
+   A convoy commander shall be designated.
+   When transporting hazardous loads, the transfer route shall be chosen to minimize  exposure to populated areas and critical facilities.
+   The selected route shall be identified and the following items noted:   16.
+   Radio contact shall be maintained with the convoy commander for all elements of the  convoy.
+   Proper environmental health required by the commodity transported shall be ensured.
+   When required by the transportation plan, areas shall be cordoned off.
+   Emergency actions shall be taken to secure the item being transported in the event of  a mishap.
+   A pre -operational check of the loaded vehicle and trailer shall be co nducted.
+   A convoy commander pre -departure briefing guide and requirements shall be  prepared and conducted.
+  Range Safety shall ensure the  following launch countdown pre -operational functions are performed:   17.
+ The Pad Safety Officer ( PSO) shall  perform the following launch countdown general functions:   17.
+   At the ER, to ensure proper operation, the holdfire and firing line interrupt  capability shall be checked out at a mutually agreed time as clo se to launch as practical  with Pad Safety present, with results of the checkout reported by Pad Safety Console in the  Launch Control Center, or on -board ship during the launch countdown.
+ Note: The term  ‘Pad Safety Console (PSC)’ has also been known in the past as ‘Operations Safety Console  (OSC)’; the terms shall be considered interchangeable.
+   The PSO shall implement responsibilities identified in the Range Safety  approved countdown procedures.
+   The PSO shall initiate a holdfire when sa fety constraints or emergency situations  dictate.
+   During major launch operations, the LEOC/LST shall be available for immediate  response to a launch vehicle and/ or payload impact on the ranges, KSC, or the public  domain.
+   The Range User shall have the required vehicle launch crew necessary to support  launch operations at least 90 minutes before T -0.
+   Crews for securing the complex after a norma l launch shall not be located in the  same area as the LEOC/LST.
+ These crews shall be located so as not to interfere with  LEOC/LST operations.
+   Immediately after a launch, the Range User, Pad Safety, and the Fire Depar tment shall  inspect the pad, per local procedures, for personnel hazards such as contamination, spills,  exposed wiring, structural or facility damage, damaged or leaking propellant or pressure  systems, low oxygen content in enclosed areas, and fires.
+  Pad Safety shall coordinate with the Range User to determine when it is safe to open  the pad for normal work.
+   Pad Safety shall direct Security/HOS to adjust or lift roadblocks as warranted by  existing conditions.
+   Fire, medical, and pu mping station support shall be released when no longer needed  and normal security measures are instituted.
+ Any failure to launch or ignite properly shall be treated as a hangfire until 30  minutes has elapsed or it can be determined that a misfire has occurred.
+  The flight safety system (FSS) shall remain configured in a manner that will  enable destruct action to be taken if necessary until Pad Safety (ER)/Flight Safety Project  Officer (FSPO) (WR) has verified and reported that the launch vehicle is no longer in a  launch configuration.
+   In the event of a launch abort or misfire or following expiration of the 30 -minute  waiting period in the case of a hangfire with solid propellant stages or a solid propellant  starter devices, the PSO shall perform the following activities: Note : For an aut onomous  flight safety system, some of the below tasks may need to be tailored depending on  implementation choices that affect requirements for a Mission Flight Control Officer  (MFCO), command receivers, and command destruct sites.
+   Range Safety shall make a launch complex inspection in conjunction with  the Range User and allow access to the launch complex for work when it is safe to do  so.
+   If necessary, the EOD team shall initiate render -safe procedures.
+   In the event of a launch abort or misfire/hangfire, the Range User shall  depressurize the vehicle propellant tanks and pressure systems to a safe, static condition.
+   Pad Safety shall monitor the detanking of propellants whe re applicable.
+   In the event of a hangfire, Pad Safety (ER)/FSPO (WR), the Range User, and the  Range Operations Squa dron shall ensure the FSS remains configured in a manner that will  enable destruct action, if necessary, in the event of unscheduled launch.
+ Note : The waiting  period in this configuration is a minimum of 30 minutes during which time the FHA shall  remain cl eared.
+   For vehicles using solid propellant stages or solid propellant starting devices, Pad  Safety shall restrict access to the pad until it can be verified that power did not reach the  initiator (misfire), or it is assumed that power did reach the initiator (hangfire) and a 30 - minute waiting period has elapsed.
+ The Range User shall provide launch crew  personnel required to support the LEOC or LST Chief at the identified site at least 90 minutes  before T -0.
+ Cr ews for securing the complex after a normal launch shall not be located in the  same area as the LEOC/LST.
+ These crews shall be located so as to not interfere with  LEOC/LST operations.
+   In addition to the requirements of Chapter  3 and  Chapte r 13, the Range User shall comply with the following requirements for operations  involving solid rocket motors and rocket motor segments.
+   Solid rocket motor segments/motors transported on trailers or railroad cars shall be  properly restrained to the trailer or railroad car support struc tures to minimize possibility of  loss of load in an accident scenario.
+   For solid rocket motor/segment transporting trailers or railroad cars that use internal  combustion engine powered generators for the environmental control units, gasoline or li quid  propane gas powered engines shall not be used.
+ If internal combustion engine generator  equipped trailers or railroad cars loaded with solid rocket motors/segments are brought inside  processing facilities, care shall be taken to minimize the quantity o f fuel in the generator tanks.
+  The fuel tanks shall be reinforced and equipped with a protective shield to minimize possibility  of tank rupture and fuel ignition during transport.
+ An insulation barrier shall be provided  between the environmental control un it and the solid rocket motor or motor segment to protect  the motor from heat or possible fuel fire.
+   If forced air heaters are used for environmental control on covered railroad cars or  trailers transporting solid rocket motors/segments, liquid propane gas heaters or gasoline  heaters shall not be used.
+ The effects of heater failures on the trailer/railroad car shall be  analyzed and reported in an analys is as required by SSCMAN 91 -710 Volume 3, Chapter 18.
+   Canvas covers for solid rocket motor/segment transporting trailers or railroad cars  shall not be used.
+ If their use cannot be avoided, the rubberized canvas material shall be  subjected to tribo electric testing and meet the test requirements for plastic materials used in  solid rocket motor/segment processing.
+ An operational hazard analysis shall be performed to  demonstrate that under the worst -case conditions (for example, broken or loose canvas tie  downs and canvas flapping and rubbing on the segment or motor case), not enough static can  be accumulated to cause a catastrophic event, such as propellant ignition).
+   Solid rocket motor/segment transport trailers or railroad cars containing so lid rocket  motors/segments shall be secured to prevent inadvertent motion when parked; in other words,  brakes set and wheels chocked.
+   Locomotives and tractors that transport solid rocket motor/segment cars and trailers  shall be removed from proces sing facilities as soon as possible.
+   If air pallets are used for transport of solid rocket motors/segments inside processing  facilities, the structure of the air pallet shall be rigid enough to minimize elastic deformation  of the pallet under load  and, thus, minimize stresses transferred to the solid rocket  motor/segment.
+   If wett ing of a solid rocket motor/segment with water is required for ultrasonic  inspections, adequate water intrusion barriers shall be provided to prevent the propellant from  getting wet.
+   Solid rocket motors/segments with graphite epoxy casings, which are very sensitive to  external damage, shall be visually inspected fo r case damage at each major stage of processing  and upon arrival at the launch pad.
+   For ig niter uncrating and inspection operations of separately shipped igniters,  corrosion protection coatings shall be removed from the igniter metal flange before special  lifting adapters are attached to the flange.
+   Extreme care shall be taken when inspecting and handling igniters.
+   Fixtures using cradles for the storage and handling of solid rocket motors/segments  shall be inspected for cleanliness and the absence of any objects that could damage the sensitive  solid rocket motor/segment cases when they are lowered into the cradles.
+   For open grain inspections, wrist stats shall be used within 5 feet of the open grain.
+   Pathfinder operations using size and weight representative of inert solid rocket  motors/ segments shall be conducted before live/operational solid rocket motor/segment  processing operations are conducted.
+   For solid rocket motor/segment lifting operations, main processing facility  overhead doors shall be kept at least partially open, weather permitting, to provide  additional exit routes, unless the doors are required to be closed to reduce exposure of  additi onal personnel.
+   If rotating fixtures are used to rotate solid rocket motors/segments (for purposes  of cork installation, for example), the rotating fixture cradles shall be equipped with a  means to restrain the solid rocket motors/segments durin g rotation.
+   If internal combustion powered vehicles, such as forklifts or man lifts, are  required for support of solid rocket motor/segment handling operations and are operated in  close proximity of the solid rocket motors/segments, gasoline and liquid propane gas  powered equipment shall not be used.
+ The equipment shall be located no less than 25 feet  from the solid rocket motors/segments and at least 100 feet away when being refueled.
+ If   a forklift is used as a hoist in close proximity of a solid rocket motor/segment OSHA  approved fork lifting adapters shall be used.
+   All tapes and plastic materials used around open grain areas of a solid rocket  motor/segment shall be subjected to triboelectric and flammability testing and be listed on  NASA -STD -6001, Flammability, Odor, Offgassing, and Compatibility Requirements and  Test Procedures for Materials in Environments that Support Combustion , and/or Kennedy  Technical Instruction (KTI) -5212, Material Selection List for Plastic Films, Foams, and  Adhesive Tapes .
+   For joint cleaning operations, where solid rocket motors/segments are placed on  elevated adaptors, extreme care shall be tak en to ensure that such adaptors are properly  attached to the support structures.
+ If solid rocket motors/segments are suspended from a  crane during such operations, at least 50% of the solid rocket motor/segment weight shall  be supported by the crane.
+  An operations safety plan shall be written for each solid rocket motor/segment  processing facility.
+ This plan shall define the required clearance areas for all hazardous  operations.
+   Solid rocket motor/segment processing facilities shall be  kept clean and  uncluttered at all times.
+ Separate facilities for storage of support equipment and receiving  and uncrating of flight hardware shall be used, as necessary, to maintain unobstructed  access to exits at all times.
+ Shipping containers shall be r emoved from the processing  facility immediately as soon as possible after unpacking the hardware.
+   Solid rocket motor/segment processing facilities shall not be used for storage of  ground support equipment or flight hardware belonging to other pr ograms or not related or  not needed for the solid rocket motor/segment handling operations.
+   Solid rocket motor/segment processing and storage facilities containing  ordnance shall not be used as emergency garage facilities for motor vehicles; fo r example,  storing these vehicles next to stored solid rocket motors/segments before an earthquake,  tropical storm, or a hurricane.
+   An unobstructed access to at least two exits in the processing facility shall be  maintained at all times during solid rocket motor/segment handling operations.
+   Breakout gates shall be provided in the processing facility perimeter fence to  enable speedy evacuation in case of emergency.
+ The number and location of the gates shall  be based on worst case cond itions (facility population, facility configuration, and  meteorological conditions) and shall be approved by Range Safety.
+   Waste collection dumpsters shall not be located inside solid rocket  motor/segment processing and storage facilities.
+   Combustible materials, such as lumber and dunnage used in support of rocket  segment/ motor handling operations, shall be treated with flame retardant paint.
+ Bulk stacks  of combustible materials shall be no closer than 100 feet from the solid rocket   motors/segments and removed from the facility as soon as possible.
+   Flammable materials needed for processing of solid rocket motors/segments  shall be stored in Range Safety approved lockers and used in minimum necessary quantities  around the s olid rocket motors/segments.
+ Waste, such as degreaser or oil -soaked rags, shall  be placed in closed Range Safety approved metal containers and the containers shall be  emptied at the end of every shift.
+ Due to the possibility of spontaneous fires, contamina ted  waste material shall be removed from the facility as soon as possible and, in no case, left  unattended overnight.
+ Waste collection metal containers shall be placed no closer than 25  feet from the solid rocket motor segments/motors.
+   Complete  solid rocket motors that are capable of unguided flight upon ignition  (as determined by analysis) that are stored vertically or horizontally shall be restrained or  thrust termination devices shall be provided to prevent fly -aways.
+   When built -up solid rocket motors must be stored vertically in the stands,  provisions shall be made to protect the motor nozzles from external facility fires.
+ Th e  motors shall be restrained in the stands to ensure that they will not topple in case of an  earthquake, tornado, high winds, or a hurricane impacting the facility, or some other  mishap in the facility.
+   If desiccant cartridges are used in the stored solid rocket motor/segment covers,  provisions shall be made for their periodic replacement.
+   For large vertically stacked solid rocket motor ign iter installations, the bore  opening on top of the motor shall be guarded to prevent personnel from falling into the  motor bore.
+   All solid rocket motors/segments and built -up motors shall be grounded at al l  times.
+ When solid rocket motor segments and built -up motors are in storage stands or  fixtures, the resistance to ground shall not exceed 10 ohms.
+ When moving the solid rocket  motors/segments, make -before -break technique shall be applied.
+ The new ground w ire  shall be connected to ground and the resistance verified.
+   If a solid rocket motor/segment and/or built -up motor is found ungrounded for  any reason (for example, the grounding wire is disconnected), the ground wire shall be  immediately reconn ected, the ground verified, and a static meter shall be used to measure  the voltage on the case surface.
+ The voltage shall be 1,000 V or less before the solid rocket  motor/segment can be worked on or moved from its storage stand or fixture.
+ Grounding  shall  be accomplished in the manner that attaches the grounding wire to the ordnance item  first and then to the facility ground (away from the ordnance) last.
+   For open grain work, wriststats shall be used within 5 feet of the open grain.
+  Electrically  powered equipment used within 10 feet of the open grain shall be explosion  proof or designed to be intrinsically safe.
+   If lifting of rocket motors/segments with cranes is required, the height of such  lifts shall be kept to the absolute required minimum and below the propellant ignition  threshold.
+ For those lifts where the lift height must exceed the propellant ignition thr eshold,  detailed justification data shall be submitted to Range Safety for review and approval.
+   A clear area shall be established around each lift to ensure that the solid rocket  motor/segment will not impact a sharp object in case of crane or r igging failure.
+   Lifting of solid rocket motors/segments over other motors or flight hardware  shall be avoided except where necessary for stacking o r storing operations.
+   The number of spotters and personnel required to support the solid rocket  motor/segment lift operations shall be kept to the absolute minimum required.
+ Remote  cameras or similar devices shall be used in locations where NFPA  101, Life Safety Code ,  requirements for evacuation of personnel from high hazard facilities cannot be met.
+   Proposed breakover operations of solid rocket motors/segments shall be  submitted to Range Safety with substantiation that there is no oth er practical means to  accomplish the task.
+ The data shall illustrate how risks are minimized and managed.
+ Note : The cranes shall be designed for  breakover operations IAW the requirements of SSCMAN 91 -710 Volume 3 and the heights  of the lift kept to the absolute minimum required.
+ Lifting heights shall be kept to the absolute minimum required.
+   If a crane operational fault occurs during a solid rocket motor/segment lifting  operation that leaves the load suspended, the crane power shall not be recycled to clear the  fault until crane troubleshooting determines the nature of the fault.
+   The GOP shall be approved by Range Safety as delineated in  paragraphs  4.
+   The GOP shall contain a table of contents  and a glossary.
+ The “introduction” section shall address the purpose and scope of  the GOP   A2.
+   The “general des cription” section shall present an  overview of the system and the general processing flow as a prologue to the hazardous and  safety critical operation descriptions.
+   The “ground operations” section shall identify the ground  processing flow including all hazardous and safety critical operations.
+ Procedure descriptions shall include separate  listing of tasks so that h azardous tasks within each procedure can be identified.
+ Task summaries for each procedure shall  include the following information:   A2.
+ A flow chart indicating expected time  sequence and location of each individual procedure and task shall be included.
+   The “off -site processing” section shall include the  following information:   A2.
+   An Operating and Support Hazard  Analysis (O&SHA) shall be performed for each procedure and the results summarized in  the GOP.
+   The O&SHA shall identify and evaluate the safety considerations  associated with environments, personnel, procedures, and equipment involved 112 SSCMAN91 -710V6  27 DECEMBER 2022   throughout the operational phase of the program and shall meet the intent of O&SHA  requirements in SSCMAN 91 -710 Volume 1, Attachment 3, paragraph A3.
+   O&SHAs shall be conducted for activities such as testing, installation,  maintenance, support, transportation, storage, operations, and training.
+   O&SHAs shall coincide with the flow chart task summaries in paragraph   A2.
+   O&SHAs shall incorporate a worksheet associated with each specific flow  block in t he flow chart and shall include the following information:   A2.
+   Range User plans that include, but are not limited to, the  following, shall be submitted in or added as appendixes to the GOP as identified in  paragraphs  4.
+ All changes shall be highlighted using change bars or similar means  of identification.
+ During review of the initial draft procedures, Range Safety  shall determine if Pad Safety notification or attendance shall be required.
+   One copy  of procedures involving hazardous or safety critical operations shall  be submitted to Range Safety and one copy to Pad Safety for review and approval.
+ The  Range User shall review, approve, and sign the final procedures to be submitted to Range  Safety for approval.
+   For new programs, final Pad Safety and Range Safety comments, reviews, and  approvals shall be provided to the Range User 45 calendar days after receipt of the  procedure.
+   For existing programs, final Pad Safety and Range Safe ty comments, reviews,  and approvals shall be provided to the Range User 30 calendar days after receipt of the  procedure.
+   Final approved, published procedures incorporating Range Safety comments  shall be submitted to Range Safety at least seven c alendar days before the conduct of the  operation.
+   Hazardous and safety critical procedures shall be approved before  starting any hazardous or safety critical operations on the ranges.
+   Hazardous or safety critical procedures shall be written in a logical format  with clear instructions as to the tasks to be performed and hazards and precautions involved.
+   A cover page with the procedure title and required ap proval signatures and date  shall be provided.
+ The signature page shall contain a block for Range Safety signature  approval.
+   The words “Draft” or “Preliminary” shall appear on any signed procedure that  does not have the required Range Safety appr oval.
+   The cover sheet shall state “Warning: This Procedure Contains Hazardous (or  Safety Critical) Operations” and shall be outlined with a border and marked in bold print.
+   The cover sheet shall indicate revision level.
+   This section shall provide a brief synopsis of all major tasks in each operating  procedure.
+   The synopsis shall include the following information:   A3.
+   The following specific hazards shall be  identified in each procedure:   A3.
+   As applicable, the following precautions shall be incorporated  in each procedure at the beginning of t he procedure as well as at the applicable step in the body  of the procedure:   A3.
+   The procedur e shall indicate the specific  facility and safety clearance zone control area to be used.
+   The requirements for the performance of facility configuration inspections shall  be incorporated in the procedures.
+   The facility configuration i nspection requirements shall address verification of  the following:   A3.
+   PPE and emergency equipment requirements for each operation shall be  incorporated in hazardous procedures.
+   The PPE and emergency equipment shall address the following:   A3.
+ No substitution or  configuration alteration of PPE shall be allowed without specific Range Safety  approval.
+   A pre -operational checklist of all tools and equipment required for safe  operations shall be incorporated in the procedures.
+   For safety critical equipment, the following information shall be in cluded:   A3.
+   Range User and range support personnel requirements such as Pad Safety, Fire,  Medical, and Se curity/HOS personnel shall be incorporated in the procedures.
+ In a multi - task procedure, the times these support personnel are needed shall be stipulated.
+   The following support personnel requirements shall be addressed:   A3.
+   The hazardou s periods when personnel limits shall be enforced.
+   All applicable documents, drawings, and specificatio ns shall be referenced in  the procedures.
+   If a specific operations safety plan or other safety plans apply to the procedure,  they shall be listed in the procedure reference section.
+   SSCMAN 91 -710 shall be listed in the procedures.
+   Procedures shall not use excessive second tier references.
+   Notification of  CCSFS Cape Support and Range Scheduling on the ER and Range Scheduling on the WR 24  hours before the planned start of the operation shall be incorporated in the procedures.
+   A step for the conduct of a pre -task briefing shall be incorporated in the  procedures.
+   The following topics shall be addressed:   A3.
+   Specification that the briefing shall be repeated if a shift change is required.
+   Step-by-step directions, written in clear language, with sufficient detail to  allow a qualified technician or mechanic to clearly understand and follow them, shall be  incorporated.
+   The procedure shall contain applicable data sheets , figures, and schematics to  document or clarify system parameters and connect points.
+   The beginning and end of a hazardous or safety critical portion of a proced ure  shall be clearly identified according to the following criteria:   A3.
+   A “Warning” shall be used to identify hazards to personnel.
+   A “Caution” shall be used to identify hazards to equipment.
+   A “Note” shall be used to  indicate an operating procedure of such  importance that it must be emphasized.
+   The activation of warning lights, PA announcements, and notification to  Security/HOS of any controlled areas, if not accomplished as a pre -task item, shall be  incor porated.
+   Safety highlights such as evacuations, safety clearance zones, clearances,  activation of aural and visual warnings shall be detailed before the hazardous sequence and  in the applicable section of the procedure.
+   Emergency shutdown and backout  procedures or steps necessary to safe the system or facility in the event of a mishap, incident,  or abort shall be incorporated.
+   Procedures shall be forwarded to Range Safety with a  transmittal letter containing the following information:   A3.
+   Changes to previously submitted procedures shall be noted with change bars or  a similar method of ma rking.
+   Two adequate and independent tracking sources shall be  available throughout powered flight.
+   Tracking sources shall be tes ted prior to launch to ensure  requirements for accuracy and data integrity such as good communication with  the operations control center.
+   A dual command site (two transmitters connected by an  automatic failover control system) and two command data links shall be  available throughout powered flight.
+   Using test codes, closed loop testing shall be performed  between command central and each site prior to launch to ensure proper  performance of the system.
+   Using flight codes, closed loop testing shall be pe rformed  between command central and the launch area command site prior to launch to  ensure code integrity.
+   Using test codes, open loop testing shall be performed between  command central, via the launch area command site, to the launch vehi cle  before launch to ensure total system integrity.
+   System testing shall include the use of both the Flight  Termination Unit (FTU) and the Range Safety control and display (RASCAD)  console.
+   Using test codes, open loop testing shall be performed between  command central, via each command site, to the command destruct independent  test sets (CDITS) prior to launch to quantitatively verify proper message, code,  and radio frequency parameters.
+   Using end -to-end playback of theoretical data, the proper  function of all computer and data communication systems shall be verified prior 120 SSCMAN91 -710V6  27 DECEMBER 2022   to launch.
+ A minimum of two strings  shall function correctly before allowing a vehicle to launch.
+   Vehicle -specific ground safety systems launch  commit criteria shall be documented in the RSOR.
+   The Pad Safety Console (PSC) (ER) and the Flight Safety Project  Officer Console (FSPOC) (WR) shall be used to monitor the status of the airborne  FTS prior to launc h.
+   Final airborne FTS open -loop testing shall be performed while  on airborne power just before launch.
+   All components of the airborne FTS shall be operating within  expected limits pri or to launch.
+   The FTS shall be armed prior to launch.
+ The airborne RTS shall be operating  within expected limits b efore launch.
+   If providing tracking data, the airborne TDTS shall be operating  within the expected limits before proceeding with the launch.
+   A launch hold or launch scrub shall be implemented if the above  criteria are not met.
+   Vehicle -specific airborne RTS launch commit criteria shall be  documented in the RSOR.
+ Mission -specific modifications to the RSOR shall be  published in the operations supplement to the RSOR for each op eration.
+   Mission -specific blast launch commit criteria shall be  addressed in the RSOR and/or Ops Supplement.
+ Mission - specific collision avoidanc e/launch hold times shall be documented by SLD 45/SEL and  SLD 30/SEL for the Ops Squadron and Range User.
+   Mission -specific debris hazard launch commit criteria  shall be addressed in the RSOR and/or Ops Supplement.
+   The Launch Weather Team (LWT) shall have clear and  convincing evidence that the following hazard avoidance criteria are not violated.
+   Additional or different mission specific natural and  triggered lightning launch commit criteria shall be documented in the RSOR and/or Ops  Supplement.
+ Range Users shall  identify the specific toxic/hazardous commodities and the quantity that will be contained  on each launch vehicle/payload mission, and shall provide data in compliance with the  requirem ents of SSCMAN 91 -710 Volume 2.
+   Mission -specific toxic launch commit criteria shall be  addressed in the RSOR and/or Ops Supplement.
+   All launch  vehicles and, if necessary, associated payloads  shall be evaluated and hazardous clear areas determined.
+   All launch vehicles and, if necessary, associated payloads,  shall be evaluated and hazardous launch areas determined.
+ NOP, with SLD Commander approval, may be permitted in this  area during a  launch; however, the collective risk shall not exceed acceptable  standards for the general public.
+   The risk to personnel on identified air and sea platforms shall be addressed in  the determination of compliance with criteria in SSCMAN 91 -710 Volume 1.
+   Jettisoned comp onents shall be prohibited from  impacting on a landmass.
