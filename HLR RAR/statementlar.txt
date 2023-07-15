@@ -1,0 +1,499 @@
+Software shall send fire/overheat warnings and FDU/Sensing Element error signals over ARINC429 10 times per second.
+Software shall send fire/overheat/BALD warnings and FDU/Sensing Element error signals over ARINC429 10 ±1 times per second.
+The minimum pulse width of discrete signals shall be 40ms. 
+Software shall identify status of discrete input signals which pulse width is higher than or equal to 30ms.
+
+The triggered type of FDU_TEST signals shall be Falling Edge type.
+
+Software shall disable IBIT function when an error is detected in FDU_TEST input circuit.
+Software shall disable IBIT function when Discrete Input I/O Voltage Test failed.
+Software shall perform CBIT in 5 second  periods. 
+-Software shall perform CBIT in 5000+3000+-100 milliseconds  period. 
+-Software shall perform CBIT in 8000+-100 milliseconds  period. 
+Software CBIT shall be performed in less than 1000ms.
+Software shall perform CBIT in less than 1000ms.
+Software shall start IBIT, when FDU_TEST signal  is detected.
+Software shall conduct IBIT, when FDU_TEST signal  is detected in Operational Mode.
+Software IBIT shall include all the CBIT tests.
+Software shall use previous CBIT test results in IBIT.
+Software shall assert the fire warning of Sensing Element 1 ,2, 5 and overheat warning of Sensing Element 1 ,2, 3, 4, 5, 6  at the end of IBIT , where software is capable to detect the hazards.
+Software shall assert the fire warning of Sensing Element 1 ,2, 5  at the end of IBIT , where Sensing Element or its corresponding conditioning circuits NOT failed.
+Software shall assert Sensing Element 3, Sensing Element 4, or  Sensing Element 6,  overheat warning when the corresponding thermal input at SC Domain is over 3103.2 mV at 0 C° reference junction.
+Software shall clear Sensing Element 3, Sensing Element 4,  or Sensing Element 6, overheat warning when the corresponding thermal input at SC Domain is below 3087.2 mV at 0 C° reference junction.
+Software shall report failure about open and short circuit via ARINC429 separately for each “SENSING ELEMENT” or its corresponding conditioning circuits. 
+Software shall detect open and short circuit existence separately for each “SENSING ELEMENT” or its corresponding conditioning circuit.
+Software shall not assert false warning because of a short circuit fault at the measurement signal path.
+Software shall prevent corresponding fire and overheat warning if a short circuit fault detected for a Sensing Element.
+Software shall not assert false warning because of a open circuit fault at the measurement signal path
+Software shall prevent corresponding fire and overheat warning if an open circuit fault detected for a Sensing Element.
+Software shall enter Fault mode when below test are failed during PBIT.
+· MCU Core Test
+· MCU Temperature In-Range Test
+· MCU Clock Test
+· Software Corruption Test
+· Random Access Memory Test
+· Calibration Data Test
+Software shall enter Fault mode when any of the below tests are failed during PBIT. 
+ MCU BIST Test  
+ MCU Temperature In-Range Test 
+ MCU Clock Test 
+ Software Corruption Test 
+ Random Access Memory Test 
+ Calibration Data Test
+If software corruption test fails, software shall stay in infinitive loop  
+Software shall have CBIT function consisting of: 
+• MCU Temperature In-Range Test 
+• ADC Peripheral Test(Calibration and Test) 
+• MCU Clock Test 
+• Discrete Output Test(Current State) 
+• ARINC Communication Test 
+• Discrete Input Voltage Test 
+• “SENSING ELEMENTs” & Circuit Test 
+• Cold Juncton Test 
+• MCU Configuration Register Test
+ 
+Software shall have a low-pass digital filter with 5Hz cut off frequency.
+Software shall perform low-pass filtering on thermal inputs with below specifications.
+Digital filter stopband frequency: 1-30 Hz .
+Anti-aliasing filter stopband start frequency: 300 Hz 
+Digital filter stopband ratio : -60dB 
+Software shall acquisite, and process thermal input signals and provide warnings in maximum 750ms. 
+Software shall provide warnings in 750ms when thermal input is over corresponding threshold value. 
+Software shall process thermal inputs signal and clear warnings in 750ms.
+Software shall clear warnings in 1000ms (+- 100ms) when thermal input is below corresponding threshold value while in Operational Mode.  
+Software shall assert Sensing Element 1, Sensing Element 2 or Sensing Element 5 fire warning when the thermal input at SC Domain is over 3476.72 mV at 0 C° reference junction.
+Software shall clear Sensing Element 1, Sensing Element 2 or Sensing Element 5 fire warning when the corresponding thermal input at SC Domain is below 3460.08 mV at 0 C° reference junction.
+Software shall assert Sensing Element 1, Sensing Element 2 or Sensing Element 5 overheat warning when the corresponding thermal input at SC Domain is over 3087.2 mV at 0 C° reference junction.
+Software shall clear Sensing Element 1, Sensing Element 2 or Sensing Element 5  overheat warning when the corresponding thermal input at SC Domain is below 3071.2 mV at 0 C° reference junction.
+When in power on mode, software shall perform PBIT function.
+Software shall have Alarm status function, while software in operational mode.
+Software shall have Alarm status function while in operational mode.  
+Software shall send sensing element errors by ARINC429 interface, while in operational mode.
+Software shall send Sensing Element error signal over ARINC429 10 times per second, while in operational mode
+Software shall have IBIT function, while In operational mode.
+NA0003011-DSS-00256 ile aynı olduğundan silinebilir
+Software shall have CBIT function while in operational mode.
+Software shall perform CBIT function every 5 second (+-100 millisecond) while in operational mode.
+While in Fault Mode, software shall assert FDU_FAIL via ARINC429. 
+
+Software shall enter calibration mode by secure manner in factory, while in operational mode. 
+
+While In calibration mode, software shall store calibration data to non-volatile memory on MCU.
+
+Software shall keep second core in reset state.
+Software shall provide following signal data over ARINC429.
+Engine Upper Fire Signal
+Engine Lower Fire Signal
+APU Fire signal
+Engine Upper Overheat Signal
+Engine Lower Overheat Signal
+APU Overheat Signal
+FDU Fail
+Engine Upper Thermal Detection Error Signal
+Engine Lower Thermal Detection Error Signal
+APU Thermal Detection Error Signal
+ECS Main Duct-1 Thermal Detection Error Signal
+ECS Main Duct-2 Thermal Detection Error Signal
+ECS Ejector Thermal Detection Error Signal
+ECS Main Duct-1 Overheat Signal
+ECS Main Duct-2 Overheat Signal
+ECS Ejector Overheat Signal
+MAJOR Version Data
+MINOR Version Data
+BUGFIX Version Data
+APU Fire Discrete Output Error Signal
+Engine Fire Discrete Output Error Signal
+Software shall have a log function to store software total operation time.
+Software shall store software Total Operation Time in minute resolution up to 10 years long from first run, in all software modes.
+Software shall provide UART communication.
+Software shall receive and transmit the data through with uart interface.  
+Software shall send version information over ARINC 429  interface one time  after PBIT.
+Software shall send software version information over ARINC 429  interface one time  after PBIT    
+Software shall signal IBIT fire warnings for 3 seconds with discrete interface, at the end of IBIT , when “SENSING ELEMENT” or its corresponding conditioning circuits NOT failed.
+Software shall signal IBIT fire warnings for 3 seconds via discrete interface, at the end of IBIT.
+Software shall send  errors for 3 seconds with ARINC 429 interface, at the end of IBIT, when “SENSING ELEMENT” or its corresponding conditioning circuits failed.
+Software shall send Sensing Element errors for 3 seconds with ARINC 429 interface, at the end of IBIT, when “SENSING ELEMENT” or its corresponding conditioning circuits failed.  
+Software shall not change discrete output state from active to passive in less than 1 second period, while not in IBIT test.
+Öneri1: Software shall keep discrete output in active state for 1 second(+-100 millisecond), while not in IBIT test. 
+
+Öneri2: When the software changes any discrete output to active state, should keep it in that state at least 1 second (+-100 millisecond), while not in IBIT test.
+When Software asserts fire signal for a Sensing Element, shall deassert corresponding overheat signal.
+
+Proposed eklenecek böylece complete olacak
+Software shall set CPU clock frequency 100MHz (+-5MHz).
+Software shall set CPU clock frequency less than or equal to100MHz (+-5MHz) in power-on mode.
+Software shall exit from Power on mode in less than 4500 milliseconds.
+-DELETED
+Software shall keep event log on Flash.
+Software shall keep event log on NVM(non volatile memory) when below events occur:
+- CBIT error 
+- Fire/overheat
+- FDU power on(log open time)
+Software shall filter noise on discrete inputs signals.
+
+Software shall check MCU configuration registers and enter fault mode if configuration registers are changed unexpectedly.
+ 
+Software shall perform IBIT, if FDU_TEST signal's glitch filter result changes from passive to active state.  
+Software shall perform IBIT, when the filtered value of FDU_TEST input signal changes from passive to active state.
+Software shall disable unused MCU's peripherals.
+Software shall send ARINC429 data packets.
+-DELETED
+Software shall send the discrete outputs' health status signals over ARINC429 once every second.
+Software shall provide following signal data over discrete Interface.
+- Engine Fire Signal
+- APU Fire Signal
+Software shall provide Engine Fire Signal, APU Fire Signal data over discrete interface with below specifications:
+
+Software shall monitor following discrete type signal.
+- FDU_TEST 
+Discrete input, fdu test gereksinimleri aratılacak
+The software shall monitor a total of 12 Thermal Inputs of the 6 Sensing Elements with two output terminals.
+Software shall monitor 12 Thermal Inputs of the 6 Sensing Elements with two output terminals in Operational Mode.
+
+Software shall signal fire warnings of Sensing Element 2 and Sensing Element 5 with using discrete 2 output.
+Software shall provide signal to discrete 2 output when Sensing Element 2 or Sensing Element 5 generate fire warning.
+When software detects discrete output failure, shall assert corresponding discrete output error warning over ARINC429.
+DELETED
+Software shall perform cold junction compensation on thermal input signal.
+Software shall send version information over UART interface one time after PBIT.   
+Software shall send software configuration identifier, software version, test/production information, and compile date-time over UART interface one time in Power On Mode.
+Software shall enter Fault Mode when below test are failled during CBIT: 
+• Cold Junction Test 
+• MCU Clock Test
+ Software shall enter Fault Mode when any of below test are failled during CBIT: 
+• Cold Junction Test 
+• MCU Clock Test
+
+Software shall reset if below test are failed during CBIT: 
+• MCU Temperature In-Range Test 
+• MCU Core Voltage Test 
+• MCU Configuration Register Test
+  Software shall reset if any of the below test is failed during CBIT: 
+• MCU Temperature In-Range Test 
+• MCU Core Voltage Test 
+• MCU Configuration Register Test
+• RAM Test 
+Software shall assert error separately for each “SENSING ELEMENT” or its corresponding conditioning circuits, if error is detected.
+Software shall assert "SENSING ELEMENT" error if "SENSING ELEMENT" or its corresponding conditioning circuit fault is detected.
+Software shall not signal fire and overheat warnings for 3 seconds, with ARINC429 interface, at the end of IBIT.
+Software shall enter operational mode when PBIT succeeds.
+Software shall handle periodic interrupt latency.
+
+the onboard avionics shall support ATN compliant data link communication
+• the onboard avionics shall be able to receive, present and process messages from the
+ground stations (CPDLC and AOCDLC)
+• the onboard avionics shall enable the crew to generate messages to be down linked to ATC
+and AOC (CPDLC and AOCDLC)
+• the onboard avionics shall enable four-dimensional trajectory negotiation with ATC
+• the onboard avionics shall incorporate an ADS function
+• the onboard avionics shall have 4D navigation capabilities
+• the onboard avionics shall be capable of generating optimum four-dimensional trajectories
+• the onboard avionics shall be capable of four-dimensional guiding
+• the onboard HMI shall enable intuitive interaction for flight planning tasks on the EFIS and
+the CDU (supported by suitable input devices such as cursor control device)
+• the onboard HMI shall incorporate the presentation and generation of communication
+messages on the EFIS and the CDU
+• the onboard HMI shall incorporate information received via data link into the overall
+situation representation (for example graphical presentation of the updated trajectory)
+the onboard avionics shall support VDL Mode 4 compliant data link communications
+• the onboard avionics shall be able to receive, present and process CPDLC messages from
+ATC
+• the onboard avionics shall enable the crew to generate CPDLC messages to be downlinked
+to ATC
+• the onboard avionics shall incorporate an ADS-B function
+• the onboard HMI shall incorporate the presentation and generation of communication
+messages on the EFIS and the CDU
+• the onboard HMI shall incorporate a Cockpit Display of Traffic Information (CDTI)
+• the onboard HMI shall incorporate information received via data link into the overall
+situation representation (for example graphical presentation of the updated trajectory
+
+Air, ground, and communications systems implemented in accordance with this
+specification shall be compliant to ICAO Standards And Recommended Practices (SARPS)
+for the ATN, Version 2.3 (ICAO doc 9705-AN/956, FIRST EDITION - 1998), except where
+explicitly stated otherwise in these specifications.
+[11]
+All PETAL-II services are based as far as possible on the ODIAC datalink service
+definitions. The operational data contents of messages, and the operational procedures,
+system logic and events surrounding the use of those messages, are in accordance with
+ICAO doc 9705 for Context Management / Data Link Initiation Capability (CM / DLIC),
+Controller/Pilot Data Link Communications (CPDLC), and Automatic Dependent
+Surveillance (ADS), wherever possible and for all branches of PETAL-II.
+[11]
+The operational application of datalink services shall remain at all times under the exclusive
+control of the air traffic controllers and aircrew involved.
+[12]
+Controllers and aircrew firmly require logical responses in support of their datalink
+exchanges.
+[12] [1.2.3 Operating contexts]
+Controllers and aircrew shall have access to both the voice and data communications
+capabilities, and the application of air traffic services provided by data communication shall
+subject to the judgment of the controllers and aircrew involved. Procedures shall be in place
+to revert to voice radiotelephony to resolve any conflicts.
+[12] [4.1 Data Link System Operational Principles]
+In all cases, voice instructions and acknowledgments should supersede data link
+instructions and acknowledgments.
+Services and procedures should be provided to ensure the preservation of situational
+awareness for both data link and non-data link equipped aircraft and ground facilities.
+Aircraft shall be under the control of only one ATC unit at a time, whether or not data link
+applications are being used.
+[12] [4.1.1 Airborne System Operational Principles]
+Operational exchanges of ATS over data link shall only be possible following successful
+completion of the DLIC service.
+Airborne systems shall provide addressing and flight plan correlation data to each ATSU
+involved in the intended flight, or portion of flight where data link will be used, through the
+UNCLASSIFIED COMMERCIAL
+MA-AFAS WP 1.1
+DERA/AS/FMC/CR000287/REV2 115
+MA-AFAS WP 1.1
+UNCLASSIFIED COMMERCIAL
+DLIC service. Baseline 1 ground systems shall not be required to forward or exchange
+aircraft addressing data.
+[12] [4.1.2 Ground System Operational Principles]
+Ground systems shall have full control over controller/aircrew message exchanges. Control
+shall be based on operational data type.
+[12] [4.2.2 Aircrew Procedures]
+Prior to take-off, the aircrew shall input the current flight plan and other data into the
+appropriate airborne systems to support Baseline 1 ATS.
+Aircrew shall manually trigger log-on/flight plan association in accordance with the DLIC
+service description.
+Regardless of the method used by the controller to initiate transfer of voice
+communications, and whether or not the aircrew uses data link to establish initial contact
+with a new ATC sector, aircrew shall use standard voice procedures to complete the
+transfer of voice communications from one ATC sector to another. If the "monitor"
+instruction is used, voice contact is not necessary.
+All aircrew-initiated exchanges shall remain at the discretion of the aircrew involved.
+Aircrew shall monitor appropriate voice frequency.
+[12] [4.2.3 ATC Procedures]
+Data Link will take place if sector traffic levels permit, at the discretion of the Current Radar
+Controller.
+The Current Radar Controller may start and/or stop data link sessions at any time at his
+own discretion.
+[12] [5.1.2.1.3 Airborne Equipment Functionality]
+Airborne system shall provide at all time VHF air-ground voice communication capability.
+Airborne system should be designed such as when operating a data link system, there
+should be no increase in pilot in head-down time that would adversely affect safe operation.
+The airborne system should provide the aircrew with the capability to respond to ATS
+messages: review, validate, and acknowledge any operational messages being delivered or
+received. In addition, the flight crew should have the capability to clear, list, select, edit,
+store, and retrieve ATS messages sent and received. A desirable option would be the
+capability to transfer appropriate flight crew approved information into other existing flight
+management functions.
+[12] [5.1.2.3 ATC Automation]
+The ground system should provide controllers with flight plan indications of data link
+capability as well as display indications of data link sessions and eligibility.
+The ground system initially contacted by the aircraft should be able to pass the necessary
+aircraft address information to another ground station via ground/ground communications
+links (ICAO).
+NOTE: It has been stated in the same document (4.1.1.3) that "
+Baseline 1 ground systems shall not be required to forward or
+exchange aircraft addressing data".
+[12] [5.1.2.4 Controller Interface]
+The controller HMI should provide the controller with the capability to respond to messages,
+to issue clearances, instructions, and advisories and to request and provide information as
+appropriate. In addition, the controller should have the capability to clear, list, select, edit,
+store, and retrieve ATS messages sent and received.
+UNCLASSIFIED COMMERCIAL
+MA-AFAS WP 1.1
+116 DERA/AS/FMC/CR000287/REV2
+MA-AFAS WP 1.1
+UNCLASSIFIED COMMERCIAL
+The controller HMI should be designed such as when operating a data link system, there
+should be no increase in controller in head-down time that would adversely affect safe
+operation.
+Co-ordination between military authorities and air traffic services shall be established per guidelines of 
+ICAO Annex 11 Chapter 2 §2.16. In particular, close co-operation between air traffic services authorities and 
+military authorities should ensure that special arrangements and procedures protect civil aircraft from 
+potentially hazardous military activities 
+Moreover, activities potentially hazardous to civil aircraft shall be co-ordinated with the appropriate air 
+traffic services authorities per guidelines of ICAO Annex 11 Chapter 2 §2.17. Arrangements shall provide 
+enough time to permit timely promulgation of information regarding the activities in accordance with the 
+provisions of ICAO Annex 15. 
+In order to achieve both objectives of hazard avoidance and minimal interference with normal flight 
+operations, ICAO Annex 11 Chapter 2 §2.17.2.1 recommends criteria for the design of specific airspace 
+definitions. In particular, ICAO recommends that direct communication between the appropriate ATS 
+authority or air traffic services unit and the organization or units conducting the activities are provided for 
+use in the event that civil aircraft emergencies or other unforeseen circumstances require discontinuation of 
+the activities.
+The availability of the ADS system shall be 99.996%.
+The availability of the CPDLC system shall be 99.996%.
+The ATC Clearances and Information Service shall be available during all flight phases.
+The ATC Communications Management Service shall be available during all flight 
+phases.
+The Downstream Clearance Service shall be available in all flight phases. The DSC 
+service shall not be available with the C-ATSU when the aircraft has a C-ATSU link 
+established (i.e. the CIC and DSC services shall not be simultaneously active with the 
+same ATSU). 
+The Departure Clearance Service shall be available from a time period (see 
+note) prior to the EOBT (or engine start-up request) until the time the aircraft 
+commences movement under its own power.
+The Controller Access Parameters Service shall be available in all phases of flight 
+between take-off to landing. The required set of parameters to downlink and the 
+periodicity of the data collection may change during flight
+The Data Link Operational Terminal Information Service shall be available during all 
+flight phases, either as a broadcast or as a specific request and delivery message, 
+depending on availability, and for the broadcast version, on the actual position of the 
+aircraft (within or out of range).
+The Data Link Runway Visual Range Service shall be available during all flight phases. 
+the controller shall have the possibility to 
+manually request the airborne flight plan for an unexpected check in case of doubt 
+about the progress of a flight. 
+The service shall be terminated as the flight in progress leaves the ATS unit's area of 
+responsibility or is starting an approach procedure
+The Data Link Significant Meteorological Information Service shall be available during 
+all flight phases.
+The Data Link Logon Service shall be available during all flight phases. 
+ADS-B shall convey an aircraft call sign of up to 7 alphanumeric characters in length [7]. For 
+aircraft/vehicles not receiving ATS services and military aircraft the call sign is not required. 
+Those aircraft requesting ATC services will be required in some jurisdictions to use the same 24 bit 
+address for all CNS systems. Aircraft with Mode-S transponders using an ICAO 24 bit address shall use 
+the same 24 bit address for ADS-B (meanwhile mode S is not in the scope of MA-AFAS). All 
+aircraft/vehicle addresses shall be unique within the operational domain(s) applicable.
+The ADS-B emitter category shall refer to the characteristics of the aircraft or vehicle.
+The horizontal latitude and longitude positions shall be reported as a geometric position
+Both barometric and geometric altitude shall be reported, if available. 
+The reports which will be provided by the ADS system shall include the time of applicability (validity) of 
+the position measurement. 
+The time shall be expressed in hours/minutes/seconds. 
+The ADS report shall include aircraft/vehicle derived ground speed. 
+The range of the ground speed shall be up to a max. of 4000 knots 
+The ADS system shall be capable of reporting the aircraft derived track angle. 
+With either a simulated or real SMGCS system, taxi routes shall be generated and up-linked
+to the aircraft. These routes shall include all kinds of possible route information, including
+hold-short instructions. To determine the benefits, the same tests should be conducted without
+the taxi management system in the aircraft being activated and with the crew following the
+normal procedure of writing down and reading back the taxi instructions
+Typical CPDLC messages during ground operations shall be sent and received. The aircraft
+shall conduct several ground operations with either normal voice communication or with the
+CPDLC system.
+Several situations where an aircraft enters the active runway shall be simulated/demonstrated
+and the alerts being issued recorded.
+The ATN communications interface shall be compliant with ATN SARPS ICAO 9705/2. 
+The aircraft equipment shall support the reception and transmission of ATN messages
+through VDL Mode 2 link. 
+The aircraft equipment shall support the reception and transmission of ATN messages
+through VDL Mode 4 link.
+The ground equipment shall support the reception and transmission of ATN messages
+through either a VDL4 or a VDL2 link.
+The aircraft equipment shall support the reception and transmission of ATN messages
+through a satellite communications link.
+The ground equipment shall support the reception and transmission of ATN messages
+through a satellite communications link.
+The CPDLC capabilities of the ground and aircraft equipment shall be compliant with
+ODIAC AGC-ORD-01
+CPDLC shall implement extensions of ATN SARPS ICAO 9705/2 CPDLC services
+where required to support FLIPCY, DYNAV and Taxi management operational 
+functions.
+ The CPDLC capability shall implement a subset of ATN SARPS ICAO 9705/2 CPDLC 
+services sufficient to meet the MA-AFAS requirements.
+The Data Link Flight Information Services (FIS) shall be compliant with ODIAC AGDORD-01
+FIS shall implement a subset of ATN SARPS ICAO 9705/2 FIS services sufficient to 
+perform the scenarios defined for MA-AFAS. 
+The aircraft equipment shall implement all ATN SARPS ICAO 9705/2 ADS-C services.
+The ground equipment shall implement all ATN SARPS ICAO 9705/2 ADS-C services.
+The aircraft equipment aircraft shall be capable of receiving urgent communications from 
+ATC through a VDL mode 4 link.
+The ground equipment aircraft shall be capable of transmitting urgent communications
+from ATC through a VDL mode 4 link to the aircraft.
+Both voice and CPDLC shall be used for these tests.
+The aircraft is at the holding position and receiving a line-up or
+take-off clearance. A simulated aircraft or vehicle is
+approaching of occupying the runway intended for take-off.
+The crew shall become aware of this situation via the ground
+CDTI application
+The aircraft shall be in several situations where its movement
+is restricted due to other aircraft or vehicles. These situations
+should include:
+ - push-back operation with other aircraft / vehicle passing
+behind
+ - entering taxiway with other aircraft / vehicle in opposite
+direction
+ - approaching taxiway intersection while other aircraft
+vehicle does the
+ same
+ The crew shall be instructed either via voice or CPDLC to
+follow another aircraft or vehicle. The crew shall use either the
+outside vision or the CDTI display to identify and follow that
+aircraft / vehicle.
+The aircraft position shown on the display shall be compared to the actual position in
+the real world or simulated scenario
+ the crew testing the system shall provide comments on the value of the
+displayed information and it shall be checked if orientation and situation awareness is
+enhanced under low visibility conditions. We would also like to have an indication on how
+quickly the pilot can retrieve the necessary information from the taxi display (head-down
+time).
+t. In addition, the
+behaviour of the system shall be checked for different taxi speeds when the crew is intending
+to stop at the holding position to verify that no nuisance alerts are generated under normal taxi
+conditions.
+ both the FMS and CMU as required shall record UTC time
+stamped ADS and TIS messages showing when messages arrived at the aircraft and were
+subsequently displayed to the pilot. 
+The aircraft shall follow the normal taxi-in
+and taxi-out operations while the taxi map display is activated. This requires that the airport at
+which these tests are conducted, i.e. Braunschweig be contained in the taxi map database.
+Tests should also be conducted under low visibility conditions.
+ The aircraft position shown on the display shall be compared to the actual position in
+the real world or simulated scenario
+e, the crew testing the system shall provide comments on the value of the
+displayed information and it shall be checked if orientation and situation awareness is
+enhanced under low visibility conditions
+By using simulated or real traffic data, typical scenarios shall be investigated. The traffic
+should include aircraft and ground vehicles, following standard tracks like taxi-in/out, followme operations, winter service, etc. These tests should also be performed in low visibility
+conditions
+With either a simulated or real SMGCS system, taxi routes shall be generated and up-linked
+to the aircraft. These routes shall include all kinds of possible route information, including
+hold-short of instructions. To be able to estimate the benefits, the same tests should be
+conducted without the taxi management system in the aircraft being activated and with the
+crew following the normal procedure of writing down and reading back the taxi instructions.
+Typical CPDLC messages during ground operations shall be send and received. The aircraft
+shall conduct several ground operations with either normal voice communication or with the
+CPDLC system
+Several situations where the aircraft approaches or enters a runway shall be
+simulated/demonstrated and the alerts being issued recorded. Comments from pilots about the
+value of these functions are of major interest. In addition, the behaviour of the system shall be
+checked for different approach speeds when the crew is intending to stop at the holding
+position to verify that no nuisance alerts are generated under normal taxi conditions
+The ATN communications interface shall be compliant with ATN SARPS
+ICAO 9705/2.
+The aircraft equipment shall support the reception and transmission of
+ATN messages through VDL Mode 2 link.
+At airfields selected for VDLM2-specific trials, the ground stations shall 
+support the reception and the transmission of ATN messages through a 
+VDL Mode 2 link. 
+The aircraft equipment shall support the reception and transmission of
+ATN messages through VDL Mode 4 link.
+At airfields selected for VDLM4-specific trials, the ground stations shall 
+support the reception and the transmission of ATN messages through a 
+VDL Mode 4 link. 
+The aircraft equipment shall support the reception and transmission of
+ATN messages through a satellite communications link.
+The ground equipment shall support the reception and transmission of
+ATN messages through a satellite communications link.
+The CPDLC capabilities of the ground and aircraft equipment shall be
+compliant with ODIAC AGC-ORD-01.
+CPDLC shall implement extensions of ATN SARPS ICAO 9705/2 CPDLC 
+services where required to support FLIPCY, DYNAV and Taxi
+management operational functions
+The CPDLC capability shall implement a subset of ATN SARPS ICAO 
+9705/2 CPDLC services sufficient to meet the MA-AFAS trials
+requirements.
+The Data Link Flight Information Services (FIS) shall be compliant with 
+ODIAC AGD-ORD-01 
+FIS shall implement a subset of ATN SARPS ICAO 9705/2 FIS services
+sufficient to perform the scenarios defined for MA-AFAS.
+The aircraft equipment shall implement all ATN SARPS ICAO 9705/2
+ADS-C services.
+The ground equipment shall implement all ATN SARPS ICAO 9705/2 
+ADS-C services.
+The aircraft equipment aircraft shall be capable of receiving urgent
+communications from ATC through a VLD mode 4 link.
+The ground equipment aircraft shall be capable of transmitting urgent
+communications from ATC through a VLD mode 4 link to the aircraft. 
+Application for approval of an STC under JAR-21 Subpart E shall in all 
+cases be made to the NAA of the STC applicant
+In the case of an STC under JAR-21 Subpart N-E, application for approval
+shall be made to any NAA at the discretion of the applicant (see JAR21.N113), and must include a declaration by the applicant that he has filed
+an application with this NAA only.
+
+
+
